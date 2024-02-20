@@ -1,5 +1,5 @@
-sessionStorage.setItem('clarityID', 'gw6i9bmyi6');
-sessionStorage.setItem('googleID', 'G-Z4G55VN0FB');
+sessionStorage.setItem('clarityID', 'l4wt2vmzud');
+sessionStorage.setItem('googleID', 'G-BZRMESF20W');
 const cID = sessionStorage.getItem('clarityID');
 const gID = sessionStorage.getItem('googleID');
 
@@ -811,7 +811,7 @@ function gtag() {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-Z4G55VN0FB');
+  gtag('config', 'G-BZRMESF20W');
 
 }
 
