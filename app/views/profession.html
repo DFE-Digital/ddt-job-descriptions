@@ -1,0 +1,31 @@
+{% extends "layouts/layout_with_sidenav.html" %}
+
+{% set pageName = profession.name %}
+{% set pageDescription = profession.description %}
+{% set nav = profession.slug %}
+
+{% block hero %}
+<section class="dfe-page-hero">
+    <div class="dfe-width-container ">
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-two-thirds">
+                <h1 class="govuk-heading-xl">{{profession.name}}</h1>
+                <p class="govuk-body-l">{{profession.description}}</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block content %}
+<div class="dfe-width-container ">
+    <div class="govuk-grid-row">
+        <div class="govuk-grid-column-full">
+      
+            {% markdown %}
+            {% include 'profession_overviews/'+ profession.slug+'.md'%}
+            {% endmarkdown %}
+        </div>
+    </div>
+</div>
+{% endblock %}
