@@ -1,18 +1,8 @@
 [
     {
-        "name": "Head of profession",
-        "slug": "head-of-profession",
-        "description": "The head of profession is responsible for the strategic direction of the profession, ensuring that the profession is well represented and that the profession is well supported.",
-        "roles": [
-            {
-                "role": "Head of profession",
-                "slug": "head-of-profession",
-                "grade": "G6"
-            }
-        ]
-    },{
         "name": "Content design",
         "slug": "content-design",
+        "family": "User-centered design",
         "description": "Content designers are responsible for creating, updating and reviewing content across digital services.",
         "roles": [
             {
@@ -29,12 +19,18 @@
                 "role": "Lead content designer",
                 "slug": "lead-content-designer",
                 "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
             }
         ]
     },
     {
         "name": "Interaction design",
         "slug": "interaction-design",
+        "family": "User-centered design",
         "description": "Interaction designers design the way people use a product, in our case digital products, websites and services. ",
         "roles": [
             {
@@ -51,12 +47,18 @@
                 "role": "Lead interaction designer",
                 "slug": "lead-interaction-designer",
                 "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
             }
         ]
     },
     {
         "name": "Service design",
         "slug": "service-design",
+        "family": "User-centered design",
         "description": "Service designers are responsible for creating, updating and reviewing content across digital services.",
         "roles": [
             {
@@ -73,31 +75,140 @@
                 "role": "Lead service designer",
                 "slug": "lead-service-designer",
                 "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
             }
         ]
     },
     {
         "name": "User research",
         "slug": "user-research",
+        "family": "User-centered design",
         "description": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use our services, across education and social care.",
         "roles": [
             {
                 "role": "Junior user researcher",
                 "slug": "junior-user-researcher",
                 "grade": "HEO"
-            },{
+            },
+            {
                 "role": "User researcher",
                 "slug": "user-researcher",
                 "grade": "HEO"
-            },{
+            },
+            {
                 "role": "Senior user researcher",
                 "slug": "senior-user-researcher",
                 "grade": "SEO"
-            },{
+            },
+            {
                 "role": "Lead user researcher",
                 "slug": "lead-user-researcher",
+                "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
+            }
+        ]
+    },
+    {
+        "name": "Architects",
+        "slug": "architects",
+        "family": "Technical",
+        "description": "Technical, solution, and enterprise architects design and oversee the implementation of technology solutions.",
+        "roles": [
+            {
+                "role": "Technical architect",
+                "slug": "technical-architect",
+                "group": "Technical",
+                "grade": "HEO"
+            }, {
+                "role": "Senior technical architect",
+                "slug": "senior-technical-architect",
+                "group": "Technical",
+                "grade": "SEO"
+            }, {
+                "role": "Lead technical architect",
+                "slug": "lead-technical-architect",
+                "group": "Technical",
+                "grade": "G6"
+            },  {
+                "role": "Principal technical architect",
+                "slug": "principal-technical-architect",
+                "group": "Technical",
+                "grade": "G6"
+            },
+            {
+                "role": "Solution architect",
+                "slug": "solution-architect",
+                "group": "Solution",
+                "grade": "HEO"
+            }, {
+                "role": "Senior solution architect",
+                "slug": "senior-solution-architect",
+                "group": "Solution",
+                "grade": "SEO"
+            },  {
+                "role": "Lead solution architect",
+                "slug": "lead-solution-architect",
+                "group": "Solution",
+                "grade": "G7"
+            },
+            {
+                "role": "Enterprise architect",
+                "slug": "enterprise-architect",
+                "group": "Enterprise",
+                "grade": "SEO"
+            }, {
+                "role": "Lead enterprise architect",
+                "slug": "lead-enterprise-architect",
+                "group": "Enterprise",
+                "grade": "G6"
+            }
+        ]
+    },
+    {
+        "name": "Software developers",
+        "slug": "software-developers",
+        "family": "Technical",
+        "description": "A software developer designs, builds and improves software that meets user needs.",
+        "roles": [
+            {
+                "role": "Junior developer",
+                "slug": "junior-developer",
+                "grade": "HEO"
+            },
+            {
+                "role": "Software developer",
+                "slug": "software-developer",
+                "grade": "SEO"
+            },
+            {
+                "role": "Senior developer",
+                "slug": "senior-developer",
+                "grade": "G7"
+            },
+            {
+                "role": "Lead developer",
+                "slug": "lead-developer",
+                "grade": "G6"
+            },
+            {
+                "role": "Principle developer",
+                "slug": "lead-developer",
+                "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
                 "grade": "G6"
             }
         ]
     }
+   
 ]

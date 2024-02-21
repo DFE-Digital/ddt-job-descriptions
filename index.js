@@ -49,9 +49,9 @@ app.get('/sitemap.xml', (_, res) => {
 });
 
 app.get('/downloads/:filename', (req, res) => {
-  const {filename} = req.params;
+  const { filename } = req.params;
   const filePath = path.join(__dirname, '/app/downloads/' + filename);
- 
+
   //  res.setHeader('Content-Type', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document');
   res.setHeader('Content-Disposition', `attachment; filename=${filename}`);
   // Send the file
@@ -84,8 +84,27 @@ app.post('/submit-feedback', (req, res) => {
 })
 
 app.get('/', function (req, res) {
-  const professionData = require('./app/data/nav.json');
-  res.render('index', { professions: professionData });
+  // Assuming the JSON data is stored in './app/data/nav.json'
+  fs.readFile('./app/data/nav.json', 'utf8', (err, data) => {
+    if (err) {
+      console.error("Error reading file:", err);
+      return res.status(500).send("Error loading profession data");
+    }
+
+    const professionData = JSON.parse(data);
+    const professionsGroupedByFamily = professionData.reduce((acc, profession) => {
+      // Initialize the family array if it doesn't already exist
+      if (!acc[profession.family]) {
+        acc[profession.family] = [];
+      }
+      // Add the current profession to the appropriate family array
+      acc[profession.family].push(profession);
+      return acc;
+    }, {});
+
+    // Render the index template with the grouped professions data
+    res.render('index', { professionsGroupedByFamily });
+  });
 });
 
 app.get('/accessibility-statement', function (req, res) {
@@ -98,23 +117,57 @@ app.get('/cookie-policy', function (req, res) {
 
 app.get('/profession/:profession', function (req, res) {
   const { profession } = req.params;
-
   const nav = require('./app/data/nav.json');
-  const data = nav.filter(role => role.slug === profession);
-  const professionData = data.length > 0 ? data[0] : {};
+  const data = nav.find(role => role.slug === profession); // Use .find() to get the first match directly
 
-  res.render('profession', { profession: professionData });
+  if (data) {
+    // Group roles by their 'group' attribute
+    const groupedRolesByGroup = data.roles.reduce((acc, role) => {
+      const group = role.group || 'Other'; // Fallback to 'Other' if no group is specified
+      if (!acc[group]) {
+        acc[group] = [];
+      }
+      acc[group].push(role);
+      return acc;
+    }, {});
+
+    // Pass the grouped roles in the profession object
+    data.groupedRoles = groupedRolesByGroup;
+  }
+
+  res.render('profession', { profession: data || {} });
 });
+
 
 app.get('/:profession/:role', function (req, res) {
   const { profession, role } = req.params;
-
   const nav = require('./app/data/nav.json');
-  const data = nav.filter(role => role.slug === profession);
-  const professionData = data.length > 0 ? data[0] : {};
+  const professionData = nav.find(item => item.slug === profession);
+  const data = nav.find(role => role.slug === profession); // Use .find() to get the first match directly
 
-  res.render('job-description', { profession: professionData, role: role });
+  if (professionData) {
+    const roleData = professionData.roles.find(r => r.slug === role);
+    // If you need to group roles for navigation or related roles display, do it here similarly to the first route
+  }
+
+  if (data) {
+    // Group roles by their 'group' attribute
+    const groupedRolesByGroup = data.roles.reduce((acc, role) => {
+      const group = role.group || 'Other'; // Fallback to 'Other' if no group is specified
+      if (!acc[group]) {
+        acc[group] = [];
+      }
+      acc[group].push(role);
+      return acc;
+    }, {});
+
+    // Pass the grouped roles in the profession object
+    data.groupedRoles = groupedRolesByGroup;
+  }
+
+  res.render('job-description', { profession: data || {}, role });
 });
+
 
 app.get(/\.html?$/i, function (req, res) {
   var path = req.path

@@ -1,0 +1,1 @@
+Technical, solution, and enterprise architects design and oversee the implementation of technology solutions to ensure they align with policy objectives and operational requirements, focusing on technical infrastructure, specific solutions, and overall strategic direction, respectively.

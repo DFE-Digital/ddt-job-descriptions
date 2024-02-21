@@ -23,23 +23,31 @@ for Education."%}
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
 
-      <div class="dfe-grid-container dfe-grid-container--wider">
 
-        {% for profession in professions %}
 
-        <div class="dfe-card">
-          <div class="dfe-card-container">
-            <h2 class="govuk-heading-s">
-              <a href="/profession/{{profession.slug}}"
-                class="govuk-link govuk-link--no-visited-state dfe-card-link--header">{{profession.name}}</a>
-            </h2>
-            <p class="govuk-body-s">{{profession.description}}</p>
+      {% for family, groupedProfessions in professionsGroupedByFamily %}
+
+      <section>
+        <h1 class="govuk-heading-l">{{ family }}</h1>
+        <div class="dfe-grid-container dfe-grid-container--wider">
+          {% for profession in groupedProfessions %}
+          <div class="dfe-card">
+            <div class="dfe-card-container">
+              <h2 class="govuk-heading-s">
+                <a href="/profession/{{profession.slug}}"
+                  class="govuk-link govuk-link--no-visited-state dfe-card-link--header">{{profession.name}}</a>
+              </h2>
+              <p class="govuk-body-s">{{profession.description}}</p>
+              <p class="govuk-body-s govuk-!-margin-bottom-0">{{profession.roles | length}} role descriptions</p>
+            </div>
           </div>
+          {% endfor %}
         </div>
+      </section>
 
-        {% endfor %}
+      {% endfor %}
 
-      </div>
+
 
     </div>
   </div>
