@@ -20,7 +20,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 
 app.set('view engine', 'html')
 
-app.locals.serviceName = 'Job descriptions'
+app.locals.serviceName = 'Find a job description'
 app.locals.BASE_URL = process.env.BASE_URL;
 
 // Set up Nunjucks as the template engine
