@@ -1,4 +1,16 @@
-[
+[{
+    "name": "Accessibility specialist",
+    "slug": "accessibility-specialist",
+    "family": "User-centered design",
+    "description": "Accessibility specialists are responsible for ensuring that digital services are accessible to all users, including those with disabilities.",
+    "roles": [
+        {
+            "role": "Senior accessibility specialist",
+            "slug": "senior-accessibility-specialist",
+            "grade": "G7"
+        }
+    ]
+},
     {
         "name": "Content design",
         "slug": "content-design",
@@ -115,7 +127,7 @@
                 "grade": "G6"
             }
         ]
-    },
+    }, 
     {
         "name": "Architects",
         "slug": "architects",
@@ -127,17 +139,20 @@
                 "slug": "technical-architect",
                 "group": "Technical",
                 "grade": "HEO"
-            }, {
+            },
+            {
                 "role": "Senior technical architect",
                 "slug": "senior-technical-architect",
                 "group": "Technical",
                 "grade": "SEO"
-            }, {
+            },
+            {
                 "role": "Lead technical architect",
                 "slug": "lead-technical-architect",
                 "group": "Technical",
                 "grade": "G6"
-            },  {
+            },
+            {
                 "role": "Principal technical architect",
                 "slug": "principal-technical-architect",
                 "group": "Technical",
@@ -148,12 +163,14 @@
                 "slug": "solution-architect",
                 "group": "Solution",
                 "grade": "HEO"
-            }, {
+            },
+            {
                 "role": "Senior solution architect",
                 "slug": "senior-solution-architect",
                 "group": "Solution",
                 "grade": "SEO"
-            },  {
+            },
+            {
                 "role": "Lead solution architect",
                 "slug": "lead-solution-architect",
                 "group": "Solution",
@@ -164,7 +181,8 @@
                 "slug": "enterprise-architect",
                 "group": "Enterprise",
                 "grade": "SEO"
-            }, {
+            },
+            {
                 "role": "Lead enterprise architect",
                 "slug": "lead-enterprise-architect",
                 "group": "Enterprise",
@@ -210,5 +228,4 @@
             }
         ]
     }
-   
 ]
