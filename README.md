@@ -36,12 +36,13 @@ Provided you follow these instructions, you don't need to do anything else.
 
 ### Add a new profession
 
-Within the `app/views/data` directory, open the nav.json file and add a structure for the profession, for example:
+Within the `app/views/data` directory, open the nav.json file and add a structure for the profession, make sure you use the same family as others so it appears in the same group on the homepage. For example:
 
 ```
 {
     "name": "Content design",
     "slug": "content-design",
+    "family": "User-centered design", 
     "description": "Content designers are responsible for creating, updating and reviewing content across digital services.",
     "roles": [
         {
@@ -65,7 +66,7 @@ Within the `app/views/data` directory, open the nav.json file and add a structur
 
 ### Profession overview
 
-This is displated on the overview page for each profession.
+This is displated on the overview page for each profession group (the group is the parent of the roles)
 
 When creating markdown files, you'll use the slugs to name files.
 
@@ -77,8 +78,29 @@ content-design.md
 
 ### Job descriptions
 
-For each of the roles in the profession structure, create a job description markdown file in the `app/views/jd` folder, For example:
+For each of the roles in the profession structure, create a job description markdown file in the `app/views/jd` folder, making sure it matches the slug you use in the roles. For example:
 
 ```
 lead-content-designer.md
 ```
+
+or 
+
+```
+senior-content-designer.md
+```
+
+## App variables and deployment
+
+If you make any changes which need a new environment variable, you will need to add this to the Heroku app. 
+
+If you need access to the Heroku pipeline or app management, speak to DesignOps to request access.
+
+
+### Deployment
+
+When a change is merged into the main branch, the Heroku pipeline automatically deployes the change to:
+
+[https://ddt-job-descriptions-5ca184d3d4ce.herokuapp.com](https://ddt-job-descriptions-5ca184d3d4ce.herokuapp.com)
+
+
