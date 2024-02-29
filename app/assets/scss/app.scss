@@ -13,6 +13,7 @@ $govuk-global-styles: true;
 @import './_cards.scss';
 @import './_listpanels.scss';
 @import './_subnav.scss';
+@import './_feedback.scss';
 
 .govuk-width-container {
   @include govuk-width-container;
@@ -2566,6 +2567,6 @@ a.dfe-dh-tag:focus {
   text-decoration: none
 }
 
-.post img{
+.post img {
   max-width: 100%;
 }

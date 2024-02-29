@@ -10,10 +10,12 @@ var NotifyClient = require('notifications-node-client').NotifyClient
 const fs = require('fs');
 const path = require('path');
 
+const airtable = require('airtable');
 require('dotenv').config()
 const app = express()
 
 const notify = new NotifyClient(process.env.notifyKey)
+const base = new airtable({ apiKey: process.env.airtableFeedbackKey }).base(process.env.airtableFeedbackBase);
 
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
@@ -60,6 +62,38 @@ app.get('/downloads/:filename', (req, res) => {
 
 app.get('/accessibility-statement', (_, res) => {
   res.render('accessibility-statement');
+});
+
+
+app.post('/form-response/helpful', (req, res) => {
+  const isAjaxRequest = req.headers['x-requested-with'] === 'XMLHttpRequest';
+  const { response } = req.body;
+
+  console.log(isAjaxRequest)
+
+  // Secure handling as before
+  const date = new Date().toISOString();
+  const service = "Job descriptions";
+  const pageURL = req.headers.referer || 'Unknown';
+
+  base('Data').create([{
+      "fields": {
+          "Response": response,
+          "Service": service,
+          "URL": pageURL
+      }
+  }], function(err) {
+      if (err) {
+          console.error(err);
+          return res.status(500).send('Error saving to Airtable');
+      }
+      if (isAjaxRequest) {
+          res.json({ success: true, message: 'Feedback submitted successfully' });
+      } else {
+          // Redirect or send a response for non-AJAX request
+          res.redirect('/feedback-submitted');
+      }
+  });
 });
 
 app.post('/submit-feedback', (req, res) => {
