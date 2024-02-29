@@ -36,7 +36,7 @@ Provided you follow these instructions, you don't need to do anything else.
 
 ### Add a new profession
 
-Within the `app/views/data` directory, open the nav.json file and add a structure for the profession, make sure you use the same family as others so it appears in the same group on the homepage. For example:
+Within the `app/data` directory, open the `nav.json` file and add a structure for the profession, make sure you use the same family as others so it appears in the same group on the homepage. For example:
 
 ```
 {
@@ -94,12 +94,12 @@ senior-content-designer.md
 
 If you make any changes which need a new environment variable, you will need to add this to the Heroku app. 
 
-If you need access to the Heroku pipeline or app management, speak to DesignOps to request access.
+If you need access to the Heroku pipeline or app management, speak to [DfE DesignOps](https://design.education.gov.uk/design-ops) to request access.
 
 
 ### Deployment
 
-When a change is merged into the main branch, the Heroku pipeline automatically deployes the change to:
+When a change is merged into the main branch, the Heroku pipeline automatically deploys the change to:
 
 [https://ddt-job-descriptions-5ca184d3d4ce.herokuapp.com](https://ddt-job-descriptions-5ca184d3d4ce.herokuapp.com)
 
