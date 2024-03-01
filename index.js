@@ -65,20 +65,41 @@ app.get('/accessibility-statement', (_, res) => {
 });
 
 
+// Route for handling Yes/No feedback submissions
 app.post('/form-response/helpful', (req, res) => {
-  const isAjaxRequest = req.headers['x-requested-with'] === 'XMLHttpRequest';
   const { response } = req.body;
-
-  console.log(isAjaxRequest)
-
-  // Secure handling as before
-  const date = new Date().toISOString();
   const service = "Job descriptions";
   const pageURL = req.headers.referer || 'Unknown';
+  const date = new Date().toISOString();
 
-  base('Data').create([{
+  base('Data').create([
+      {
+          "fields": {
+              "Response": response,
+              "Service": service,
+              "URL": pageURL
+          }
+      }
+  ], function(err) {
+      if (err) {
+          console.error(err);
+          return res.status(500).send('Error saving to Airtable');
+      }
+      res.json({ success: true, message: 'Feedback submitted successfully' });
+  });
+});
+
+// New route for handling detailed feedback submissions
+app.post('/form-response/feedback', (req, res) => {
+  const { response } = req.body;
+  
+  const service = "Job descriptions"; // Example service name
+  const pageURL = req.headers.referer || 'Unknown'; // Attempt to capture the referrer URL
+  const date = new Date().toISOString();
+
+  base('Feedback').create([{
       "fields": {
-          "Response": response,
+          "Feedback": response,
           "Service": service,
           "URL": pageURL
       }
@@ -87,12 +108,7 @@ app.post('/form-response/helpful', (req, res) => {
           console.error(err);
           return res.status(500).send('Error saving to Airtable');
       }
-      if (isAjaxRequest) {
-          res.json({ success: true, message: 'Feedback submitted successfully' });
-      } else {
-          // Redirect or send a response for non-AJAX request
-          res.redirect('/feedback-submitted');
-      }
+      res.json({ success: true, message: 'Feedback submitted successfully' });
   });
 });
 
