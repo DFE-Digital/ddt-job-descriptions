@@ -31,13 +31,13 @@
 
 <body class="govuk-template__body ">
   <script>document.body.className += ' js-enabled' + ('noModule' in HTMLScriptElement.prototype ? ' govuk-frontend-supported' : '');</script>
-  
+
   {% include 'layouts/_cookiebanner.html'%}
   <a href="#main-content" class="govuk-skip-link" data-module="govuk-skip-link">Skip to main content</a>
 
   {% include 'layouts/_topnav.html'%}
   {% include 'layouts/_services.html'%}
-  {% include 'layouts/_feedback.html'%}
+
 
   {% block header %}
 
@@ -49,8 +49,7 @@
 
   {% block main %}
 
-  <main class="govuk-main-wrapper"
-    id="main-content" role="main">
+  <main class="govuk-main-wrapper" id="main-content" role="main">
     {% block content %}{% endblock %}
   </main>
   </div>
