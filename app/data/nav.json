@@ -131,61 +131,61 @@
     {
         "name": "Architects",
         "slug": "architects",
-        "family": "Technical",
-        "description": "Technical, solution, and enterprise architects design and oversee the implementation of technology solutions.",
+        "family": "Architecture",
+        "description": "Technical, solution and enterprise architects design and oversee the implementation of technology, solutions and services.",
         "roles": [
             {
                 "role": "Technical architect",
                 "slug": "technical-architect",
-                "group": "Technical",
-                "grade": "HEO"
+                "group": "Technical Architect",
+                "grade": "SEO"
             },
             {
                 "role": "Senior technical architect",
                 "slug": "senior-technical-architect",
-                "group": "Technical",
-                "grade": "SEO"
+                "group": "Technical Architect",
+                "grade": "G7"
             },
             {
                 "role": "Lead technical architect",
                 "slug": "lead-technical-architect",
-                "group": "Technical",
+                "group": "Technical Architect",
                 "grade": "G6"
             },
             {
                 "role": "Principal technical architect",
                 "slug": "principal-technical-architect",
-                "group": "Technical",
+                "group": "Technical Architect",
                 "grade": "G6"
             },
             {
                 "role": "Solution architect",
                 "slug": "solution-architect",
-                "group": "Solution",
-                "grade": "HEO"
+                "group": "Solution Architect",
+                "grade": "SEO"
             },
             {
                 "role": "Senior solution architect",
                 "slug": "senior-solution-architect",
-                "group": "Solution",
-                "grade": "SEO"
+                "group": "Solution Architect",
+                "grade": "G7"
             },
             {
                 "role": "Lead solution architect",
                 "slug": "lead-solution-architect",
-                "group": "Solution",
-                "grade": "G7"
+                "group": "Solution Architect",
+                "grade": "G6"
             },
             {
                 "role": "Enterprise architect",
                 "slug": "enterprise-architect",
-                "group": "Enterprise",
-                "grade": "SEO"
+                "group": "Enterprise Architect",
+                "grade": "G7"
             },
             {
                 "role": "Lead enterprise architect",
                 "slug": "lead-enterprise-architect",
-                "group": "Enterprise",
+                "group": "Enterprise Architect",
                 "grade": "G6"
             }
         ]
@@ -193,7 +193,7 @@
     {
         "name": "Software developers",
         "slug": "software-developers",
-        "family": "Technical",
+        "family": "Software development",
         "description": "A software developer designs, builds and improves software that meets user needs.",
         "roles": [
             {
@@ -225,6 +225,34 @@
                 "role": "Head of profession",
                 "slug": "head-of-profession",
                 "grade": "G6"
+            }
+        ]
+    },
+    {
+        "name": "DevOps",
+        "slug": "devops",
+        "family": "Software development",
+        "description": "DevOps engineers support the development and operation of software through tools, environments and practices.",
+        "roles": [
+            {
+                "role": "DevOps Engineer",
+                "slug": "devops-engineer",
+                "grade": "SEO"
+            },
+            {
+                "role": "Senior DevOps Engineer",
+                "slug": "senior-devops-engineer",
+                "grade": "G7"
+            },
+            {
+                "role": "Junior Site Reliability Engineer",
+                "slug": "junior-site-reliability-engineer",
+                "grade": "HEO"
+            },
+            {
+                "role": "Site Reliability Engineer",
+                "slug": "site-reliability-engineer",
+                "grade": "SEO"
             }
         ]
     }
