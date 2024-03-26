@@ -1,4 +1,4 @@
-## Head of service desig
+## Head of service design
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -11,22 +11,14 @@
   </div>
 </dl>
 
-
 As the **Head of Service Design**, you will be an expert practitioner with broad industry experience. Your role will define and assure best practices in service design while influencing, leading, and mentoring others within the department and across the government. You will ensure the right conditions and environment are in place for designers to work effectively, focusing on strategic alignment with organisational objectives to maximise the impact of service design initiatives.
 
-## At this role level, you will:
-
-- **Influence design and organisational strategy and priorities**, ensuring that service design practices align with and support overarching business and government objectives.
-- **Collaborate with counterpart colleagues across government**, fostering a cohesive approach to service design that leverages shared knowledge, standards, and resources.
-- **Focus on creating the right conditions and environment for designers to work effectively**, ensuring that teams have the support, tools, and freedom to innovate and deliver user-centred services.
-- This role is often performed at the Civil Service job grade of **G6 (Grade 6)**.
+You'll work closely with the Head of Profession for Design to deliver overall department startegies, design standards and assuring good design practice.
 
 
 ## You’ll have
 
-### Essential
-
-## Skills and Expertise
+### Essential skills and expertise
 
 ### Agile Working (Expert Level)
 
