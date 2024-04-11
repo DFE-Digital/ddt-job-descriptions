@@ -30,7 +30,7 @@
 
 ### Essential
 
-* prototyping in code (HTML and CSS)  
+* be able to prototype using appropriate tools  
 * experience of using node.js and JavaScript
 * expert in understanding accessibility and inclusive design guidelines and practices
 * planning and facilitating workshops
@@ -41,4 +41,5 @@
   
 ### Desirable
 
-* You'll have experience of using the GOV.UK prototype kit  
+* prototyping using HTML and CSS
+* you'll have experience of using the GOV.UK prototype kit  

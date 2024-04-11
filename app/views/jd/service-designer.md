@@ -29,7 +29,7 @@
 
 ### Essential
 
-* prototyping in code (HTML and CSS)  
+* be able to prototype using appropriate tools
 * understand accessibility and inclusive design guidelines and practices
 * contribute in workshops and planning activities
 * use appropriate tools to create prototypes of services or user interactions
