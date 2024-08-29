@@ -14,7 +14,7 @@
 ## You will
 
 - lead and mentor teams in the design of user-centred services, ensuring that iterative design practices are effectively implemented
-- drive the integration of data-driven insights into service design, ensuring that user needs and business goals are met
+- drive the integration of data-driven insights into service design, ensuring that user needs and business goals are met through hypothesis driven design
 - facilitate collaboration across multidisciplinary teams, ensuring that all voices are heard and contributing to a cohesive design process
 - clearly articulate and advocate for design decisions, influencing stakeholders and aligning them with the overall vision
 - strategically plan and manage design initiatives, ensuring alignment with both immediate and long-term organisational goals
