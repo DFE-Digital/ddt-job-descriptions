@@ -6,7 +6,6 @@ var dateFilter = require('nunjucks-date-filter')
 var markdown = require('nunjucks-markdown')
 var marked = require('marked')
 const bodyParser = require('body-parser')
-var NotifyClient = require('notifications-node-client').NotifyClient
 const fs = require('fs');
 const path = require('path');
 
@@ -14,7 +13,7 @@ const airtable = require('airtable');
 require('dotenv').config()
 const app = express()
 
-const notify = new NotifyClient(process.env.notifyKey)
+
 const base = new airtable({ apiKey: process.env.airtableFeedbackKey }).base(process.env.airtableFeedbackBase);
 
 app.use(bodyParser.json())
@@ -23,7 +22,6 @@ app.use(bodyParser.urlencoded({ extended: true }))
 app.set('view engine', 'html')
 
 app.locals.serviceName = 'Find a job description'
-app.locals.BASE_URL = process.env.BASE_URL;
 
 // Set up Nunjucks as the template engine
 var nunjuckEnv = nunjucks.configure(
@@ -112,26 +110,7 @@ app.post('/form-response/feedback', (req, res) => {
   });
 });
 
-app.post('/submit-feedback', (req, res) => {
-  const feedback = req.body.feedback_form_input
-  const fullUrl = req.headers.referer || 'Unknown'
 
-  //Send to notify after validation with recaptcha first
-  //TODO: Implement recaptcha
-
-  notify
-    .sendEmail(process.env.feedbackTemplateID, 'design.ops@education.gov.uk', {
-      personalisation: {
-        feedback: feedback,
-        page: fullUrl,
-        service: "Job descriptions"
-      },
-    })
-    .then((response) => { })
-    .catch((err) => console.log(err))
-
-  return res.sendStatus(200)
-})
 
 app.get('/', function (req, res) {
   // Assuming the JSON data is stored in './app/data/nav.json'
