@@ -11,31 +11,28 @@
   </div>
 </dl>
 
-## You will
+## You will:
 
-* have extensive understanding of interaction and user interface design  
-* have industry or government experience in designing elegant, accessible, responsive user interfaces  
-* be confident in designing at low and high fidelity, for different screen sizes  
-* have a broad range of experience prototyping interactions  
-* have an ability to talk about, and advocate for, user-centered design in a way that other people understand  
-* understand the importance of working with research and business analysis to inform design decisions  
-* have the ability to lead the design direction and advocate for user centered design in communities of practice 
-* have experience of working collaboratively in a dynamic agile environment and using agile tools  
-* have experience in removing complexity from services and solving problems  
-* can identify and understand constraints and can communicate these and work within them  
-* are able to manage stakeholder expectations and facilitate difficult discussions with a wide range of stakeholders 
+- create design concepts and collaborate with other designers and developers to implement and continually refine services
+- use qualitative and quantitative data to identify user needs, uncover opportunities, and inform design decisions
+- map user journeys and contribute to the creation of service blueprints and maps
+- contribute to workshops, co-design sessions, and reviews, ensuring diverse perspectives are included in the design process
+- build and maintain strong relationships with stakeholders across the department
+- have the communication skills to clearly convey design ideas and concepts, adapting your approach to suit different audiences
+- use storytelling techniques to influence and engage stakeholders at all levels of the organisation
+- support long-term strategies and contribute to the development of the service design profession
+- explain and work with accessibility standards, ensuring that services meet or exceed them
+- advocate for the diverse needs of users and collaborate with accessibility specialists to identify and address barriers in services
 
 ## You’ll have
 
-### Essential
-
-* be able to prototype using appropriate tools
-* understand accessibility and inclusive design guidelines and practices
-* contribute in workshops and planning activities
-* use appropriate tools to create prototypes of services or user interactions
-  
-### Desirable
-
-* you'll have experience of using the GOV.UK prototype kit  
-* planning and facilitating workshops
-* training and developing more junior designers
+- the ability to create design concepts and collaborate with other designers and developers to implement and continually refine services
+- the expertise to use qualitative and quantitative data to identify user needs, uncover opportunities, and inform design decisions
+- the skills to map user journeys and contribute to the creation of service blueprints and maps
+- the capability to contribute to workshops, co-design sessions, and reviews, ensuring diverse perspectives are included in the design process
+- the ability to build and maintain strong relationships with stakeholders across the department
+- the communication skills to clearly convey design ideas and concepts, adapting your approach to suit different audiences
+- the ability to use storytelling techniques to influence and engage stakeholders at all levels of the organisation
+- the knowledge to support long-term strategies and contribute to the development of the service design profession
+- the ability to explain and work with accessibility standards, ensuring that services meet or exceed them
+- the commitment to advocate for the diverse needs of users and collaborate with accessibility specialists to identify and address barriers in services

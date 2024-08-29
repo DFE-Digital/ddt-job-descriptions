@@ -14,35 +14,25 @@
 
 ## You will
 
-* work with service managers and programme directors to develop design concepts
-* set direction, assure the quality of design delivery across teams and lead multiple or highly complex services
-* provide service design leadership to a specific service area, such as services for teachers or social carers, Work with stakeholders and senior leaders to create the service vision and build a roadmap to deliver outcomes.
-* provide direction and contribute more widely to the future of service design as a profession
-* work closely with other departments to make sure we have a cohesive approach to service design as well as to design services that cut across departments where necessary
-* prioritise understanding the needs and behaviour of users and know how to use this insight to underpin and drive the work that we do 
-* contribute and build a vibrant, diverse and passionate service design community and help to mature the profession capability, standards and service design 
-* Actively promote the design perspective in discussions with teams and stakeholders. Mentor and coach individuals and service teams, support education including inductions, training and workshops. 
-* assess service performance against government standards
-* lead discussions at a senior departmental level and successfully negotiate change to support the delivery of better services 
-* communicate effectively to share the as-is and the future vision of the service, working closely with service owners to help define the backlog, pulling together aspects such as user research, business design, data science, policy intent and key metrics 
-* analyse failure within a service and identify root causes for that failure 
-* work with other specialists to design and create organisational or financial structures that support the delivery of new services   
-* lead discussions at a senior level and successfully negotiate policy and legislative change to support new services   
-* map end-to-end services and understand how they fit into wider societal, service, system and organisational contexts
-* create and rapidly iterate both digital and non-digital service prototypes 
-* identify and design new service patterns and standards that scale 
-* coach, mentor and train other designers, helping set and communicate good practice to improve quality and consistency across DfE’s transformation programmes
-* know how to design inclusive, accessible digital services that solve a whole problem for users
+- drive the design of complex, user-centred services both in teams and across the department, setting the vision and ensuring iterative processes lead to successful outcomes
+- lead the integration of comprehensive data-driven insights into all aspects of service design, making informed decisions that align with user needs and strategic goals
+- champion and facilitate collaboration across diverse multidisciplinary teams, fostering a culture of co-design and shared ownership of the design process
+- be an advocate for design within the organisation, clearly communicating the value of design to senior leaders and stakeholders at all levels, and influencing strategic direction in your business area
+- develop and implement design strategies that not only align with but also anticipate future organisational needs, positioning the service for long-term success
+- lead on the creation of accessible and inclusive services, ensuring compliance with legal and department standards
+- advocate for the needs of all users, particularly those from marginalised or underrepresented groups
 
 ## You’ll have
 
-### Essential
-
-*  **Leadership and guidance.** You know how to manage stakeholders’ expectations and facilitate discussions across high risk and complexity or under constrained timescales. You know how to lead on the strategy for the whole organisation, marrying business needs with innovative analysis. You can make and justify decisions characterised by high levels of risk, impact and complexity. You know how to build consensus between organisations (private or public) or highly independent and diverse stakeholders. You can solve and unblock issues between teams or departments at the highest level. You understand the psychology of a team and have strong mediation skills. You can coach the organisation on team dynamics and conflict resolution. 
-*  **User focus.** You know how to give direction on which tools or methods to use. You are experienced in meeting the needs of users across a variety of channels. You can bring insight and expertise in how user needs have changed over time to ensure these are met by the business. You know how to apply strategic thinking in how to provide the best service for the end user. 
-*  **Agile working.** You know how to coach and lead teams in Agile and Lean practices, determining the right approach for the team to take and evaluating this through the life of a project. You can think of new and innovative ways of working to achieve the right outcomes. You are able to act as a recognised expert and advocate for the approaches, continuously reflecting and challenging the team. 
-*  **Community collaboration.** You know how to work collaboratively within a group, actively networking with others and varying feedback for the appropriate time to ensure the discussion sticks. You can use your initiative to identify problems or issues in the team dynamic and rectify them. You can pull out issues through agile health-checks with the team to provoke the right responses. 
-*  **Digital perspective.** You have the ability to apply a digital understanding to your work. You can identify and implement solutions for assisted digital. 
-*  **Facilitating decisions and risks.** You can make and justify decisions characterised by high levels of risk, impact and complexity. You know how to build consensus between organisations (private or public) or highly independent and diverse stakeholders. You can be trusted by senior risk owners as an expert in security. You can apply risk methodologies at the most complex levels of risk and guide others in applying risk methodologies in proportion to the risk in question. 
-*  **Prototyping.** You are experienced in using a variety of methods of prototyping. You know how to share best practice and can coach others. You can look at strategic service design end to end. 
-*  **Strategic thinking.** You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met. (Relevant skill level: expert)
+- experience of designing government or public services
+- the ability to set the standard for iterative design practices, guiding teams through complex projects from initial concept to final implementation
+- the skills to mentor and coach teams in adopting and refining iterative processes, ensuring a consistent focus on user needs and outcomes across all stages of design
+- the capability to lead the strategic use of data in service design, integrating insights from a wide range of sources to drive innovation and effectiveness
+- the expertise to develop and oversee data-driven strategies that ensure design decisions are informed by robust analysis and user research
+- the experience to lead complex co-design sessions, integrating diverse perspectives to create innovative and user-focused services
+- the ability to build and maintain strong, strategic relationships with key stakeholders
+- the skills to articulate and champion design concepts and strategies at the highest levels of the organisation, influencing executive decision-making
+- the ability to create and deliver compelling narratives that communicate the strategic value of design
+- the capability to define and lead the strategic direction of service design within your business area, working with the Head of Profession to align design initiatives
+- the expertise to provide guidance on best practices for inclusive design, ensuring that all services meet or exceed legal, ethical, and user needs
+- the commitment to contribute to the development of policies and practices that embed accessibility and inclusive design into the organisation’s culture and processes

@@ -72,7 +72,11 @@
         "slug": "service-design",
         "family": "User-centered design",
         "description": "Service designers are responsible for creating, updating and reviewing content across digital services.",
-        "roles": [
+        "roles": [{
+                "role": "Junior service designer",
+                "slug": "junior-service-designer",
+                "grade": "HEO"
+            },
             {
                 "role": "Service designer",
                 "slug": "service-designer",
@@ -86,10 +90,6 @@
             {
                 "role": "Lead service designer",
                 "slug": "lead-service-designer",
-                "grade": "G6"
-            }, {
-                "role": "Head of service design",
-                "slug": "head-service-design",
                 "grade": "G6"
             },
             {
