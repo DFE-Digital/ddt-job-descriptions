@@ -1,5 +1,9 @@
 ## Overview
 
+<div class="govuk-inset-text">
+  Be aware a new design skills framework is being developed. This is due to be published in November 2024. Email the <a href="mailto:design.ops@education.gov.uk">DesignOps</a> team for more information.
+</div>
+
 Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. 
 
 In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.
