@@ -17,7 +17,14 @@
       <a href="/downloads/senior-content-designer.docx">Word document</a>
     </dd>
   </div>
-</dl>
+   <div class="govuk-summary-list__row" data-ignore="true">
+    <dt class="govuk-summary-list__key">
+      Download
+    </dt>
+    <dd class="govuk-summary-list__value">
+      <a href="word">Word document</a>
+    </dd>
+  </div></dl>
 
 ## You will
 

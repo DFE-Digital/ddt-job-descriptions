@@ -9,7 +9,14 @@
       G6
     </dd>
   </div>
-</dl>
+   <div class="govuk-summary-list__row" data-ignore="true">
+    <dt class="govuk-summary-list__key">
+      Download
+    </dt>
+    <dd class="govuk-summary-list__value">
+      <a href="word">Word document</a>
+    </dd>
+  </div></dl>
 
 As the **Head of Service Design**, you will be an expert practitioner with broad industry experience. Your role will define and assure best practices in service design while influencing, leading, and mentoring others within the department and across the government. You will ensure the right conditions and environment are in place for designers to work effectively, focusing on strategic alignment with organisational objectives to maximise the impact of service design initiatives.
 

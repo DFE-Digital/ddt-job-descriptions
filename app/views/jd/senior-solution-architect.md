@@ -10,7 +10,14 @@
       G7
     </dd>
   </div>
-</dl>
+   <div class="govuk-summary-list__row" data-ignore="true">
+    <dt class="govuk-summary-list__key">
+      Download
+    </dt>
+    <dd class="govuk-summary-list__value">
+      <a href="word">Word document</a>
+    </dd>
+  </div></dl>
 
 As a senior solution architect, you will either work in a particular domain or across delivery teams in a portfolio, to find the best use of data, applications and technology for services and products that meet user’s needs.
 

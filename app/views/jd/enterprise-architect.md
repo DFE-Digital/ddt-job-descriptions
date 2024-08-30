@@ -10,7 +10,14 @@
       SEO
     </dd>
   </div>
-</dl>
+   <div class="govuk-summary-list__row" data-ignore="true">
+    <dt class="govuk-summary-list__key">
+      Download
+    </dt>
+    <dd class="govuk-summary-list__value">
+      <a href="word">Word document</a>
+    </dd>
+  </div></dl>
 
 
 As an enterprise architect, you will​ ​partner with senior DfE business, strategy and policy leads and stakeholders across the department, to demonstrate the business value of Enterprise Architecture as an enabler of strategy formulation, business change and technology innovation. You will collaboratively develop business capability models and roadmaps to facilitate discussion and decision making
