@@ -194,6 +194,39 @@
             }
         ]
     },
+        {
+            "name": "Data engineering",
+            "slug": "data-engineering",
+            "family": "Data",
+            "description": "A data engineer develops and constructs data products and services, and integrates them into systems and business processes.",
+            "roles": [
+                {
+                    "role": "Junior data engineer",
+                    "slug": "junior-data-engineer",
+                    "grade": "HEO"
+                },
+                {
+                    "role": "Data engineer",
+                    "slug": "data-engineer",
+                    "grade": "SEO"
+                },
+                {
+                    "role": "Senior data engineer",
+                    "slug": "senior-data-engineer",
+                    "grade": "G7"
+                },
+                {
+                    "role": "Lead data engineer",
+                    "slug": "lead-data-engineer",
+                    "grade": "G6"
+                },
+                {
+                    "role": "Head of profession",
+                    "slug": "head-of-profession",
+                    "grade": "SCS1"
+                }
+            ]
+        },
     {
         "name": "Software developers",
         "slug": "software-developers",
