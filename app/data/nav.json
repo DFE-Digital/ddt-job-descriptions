@@ -1,137 +1,4 @@
-[{
-    "name": "Accessibility specialist",
-    "slug": "accessibility-specialist",
-    "family": "User-centered design",
-    "description": "Accessibility specialists are responsible for ensuring that digital services are accessible to all users, including those with disabilities.",
-    "roles": [
-        {
-            "role": "Senior accessibility specialist",
-            "slug": "senior-accessibility-specialist",
-            "grade": "G7"
-        }
-    ]
-},
-    {
-        "name": "Content design",
-        "slug": "content-design",
-        "family": "User-centered design",
-        "description": "Content designers are responsible for creating, updating and reviewing content across digital services.",
-        "roles": [
-            {
-                "role": "Content designer",
-                "slug": "content-designer",
-                "grade": "SEO"
-            },
-            {
-                "role": "Senior content designer",
-                "slug": "senior-content-designer",
-                "grade": "G7"
-            },
-            {
-                "role": "Lead content designer",
-                "slug": "lead-content-designer",
-                "grade": "G6"
-            },
-            {
-                "role": "Head of profession",
-                "slug": "head-of-profession",
-                "grade": "G6"
-            }
-        ]
-    },
-    {
-        "name": "Interaction design",
-        "slug": "interaction-design",
-        "family": "User-centered design",
-        "description": "Interaction designers design the way people use a product, in our case digital products, websites and services. ",
-        "roles": [
-            {
-                "role": "Interaction designer",
-                "slug": "interaction-designer",
-                "grade": "SEO"
-            },
-            {
-                "role": "Senior interaction designer",
-                "slug": "senior-interaction-designer",
-                "grade": "G7"
-            },
-            {
-                "role": "Lead interaction designer",
-                "slug": "lead-interaction-designer",
-                "grade": "G6"
-            },
-            {
-                "role": "Head of profession",
-                "slug": "head-of-profession",
-                "grade": "G6"
-            }
-        ]
-    },
-    {
-        "name": "Service design",
-        "slug": "service-design",
-        "family": "User-centered design",
-        "description": "Service designers are responsible for creating, updating and reviewing content across digital services.",
-        "roles": [{
-                "role": "Junior service designer",
-                "slug": "junior-service-designer",
-                "grade": "HEO"
-            },
-            {
-                "role": "Service designer",
-                "slug": "service-designer",
-                "grade": "SEO"
-            },
-            {
-                "role": "Senior service designer",
-                "slug": "senior-service-designer",
-                "grade": "G7"
-            },
-            {
-                "role": "Lead service designer",
-                "slug": "lead-service-designer",
-                "grade": "G6"
-            },
-            {
-                "role": "Head of profession",
-                "slug": "head-of-profession",
-                "grade": "G6"
-            }
-        ]
-    },
-    {
-        "name": "User research",
-        "slug": "user-research",
-        "family": "User-centered design",
-        "description": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use our services, across education and social care.",
-        "roles": [
-            {
-                "role": "Junior user researcher",
-                "slug": "junior-user-researcher",
-                "grade": "HEO"
-            },
-            {
-                "role": "User researcher",
-                "slug": "user-researcher",
-                "grade": "HEO"
-            },
-            {
-                "role": "Senior user researcher",
-                "slug": "senior-user-researcher",
-                "grade": "SEO"
-            },
-            {
-                "role": "Lead user researcher",
-                "slug": "lead-user-researcher",
-                "grade": "G6"
-            },
-            {
-                "role": "Head of profession",
-                "slug": "head-of-profession",
-                "grade": "G6"
-            }
-        ]
-    }, 
+[
     {
         "name": "Architects",
         "slug": "architects",
@@ -290,6 +157,140 @@
                 "role": "Site Reliability Engineer",
                 "slug": "site-reliability-engineer",
                 "grade": "SEO"
+            }
+        ]
+    },{
+        "name": "Accessibility specialist",
+        "slug": "accessibility-specialist",
+        "family": "User-centered design",
+        "description": "Accessibility specialists are responsible for ensuring that digital services are accessible to all users, including those with disabilities.",
+        "roles": [
+            {
+                "role": "Senior accessibility specialist",
+                "slug": "senior-accessibility-specialist",
+                "grade": "G7"
+            }
+        ]
+    },
+    {
+        "name": "Content design",
+        "slug": "content-design",
+        "family": "User-centered design",
+        "description": "Content designers are responsible for creating, updating and reviewing content across digital services.",
+        "roles": [
+            {
+                "role": "Content designer",
+                "slug": "content-designer",
+                "grade": "SEO"
+            },
+            {
+                "role": "Senior content designer",
+                "slug": "senior-content-designer",
+                "grade": "G7"
+            },
+            {
+                "role": "Lead content designer",
+                "slug": "lead-content-designer",
+                "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
+            }
+        ]
+    },
+    {
+        "name": "Interaction design",
+        "slug": "interaction-design",
+        "family": "User-centered design",
+        "description": "Interaction designers design the way people use a product, in our case digital products, websites and services. ",
+        "roles": [
+            {
+                "role": "Interaction designer",
+                "slug": "interaction-designer",
+                "grade": "SEO"
+            },
+            {
+                "role": "Senior interaction designer",
+                "slug": "senior-interaction-designer",
+                "grade": "G7"
+            },
+            {
+                "role": "Lead interaction designer",
+                "slug": "lead-interaction-designer",
+                "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
+            }
+        ]
+    },
+    {
+        "name": "Service design",
+        "slug": "service-design",
+        "family": "User-centered design",
+        "description": "Service designers are responsible for creating, updating and reviewing content across digital services.",
+        "roles": [
+            {
+                "role": "Junior service designer",
+                "slug": "junior-service-designer",
+                "grade": "HEO"
+            },
+            {
+                "role": "Service designer",
+                "slug": "service-designer",
+                "grade": "SEO"
+            },
+            {
+                "role": "Senior service designer",
+                "slug": "senior-service-designer",
+                "grade": "G7"
+            },
+            {
+                "role": "Lead service designer",
+                "slug": "lead-service-designer",
+                "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
+            }
+        ]
+    },
+    {
+        "name": "User research",
+        "slug": "user-research",
+        "family": "User-centered design",
+        "description": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use our services, across education and social care.",
+        "roles": [
+            {
+                "role": "Junior user researcher",
+                "slug": "junior-user-researcher",
+                "grade": "HEO"
+            },
+            {
+                "role": "User researcher",
+                "slug": "user-researcher",
+                "grade": "HEO"
+            },
+            {
+                "role": "Senior user researcher",
+                "slug": "senior-user-researcher",
+                "grade": "SEO"
+            },
+            {
+                "role": "Lead user researcher",
+                "slug": "lead-user-researcher",
+                "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
             }
         ]
     }
