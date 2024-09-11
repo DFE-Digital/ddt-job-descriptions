@@ -2,9 +2,20 @@
 
 This service hosts the job descriptions for the DDaT professions in the Department for Education
 
-## Making changes
+## Support
+
+If you need help or support with this Repo, contact the [DesignOps team](https://design.education.gov.uk/design-ops)
+
+## Making changes 
 
 You can make changes in GitHub in a pull request, or, run locally and push changes up to the repository.
+
+## Running locally
+
+### Prerequisites
+
+- Node.JS LTS Version
+- VS Code or similar editor
 
 ### Clone the repo
 
@@ -27,6 +38,7 @@ notifyKey=x
 BASE_URL=http://localhost:3088
 
 If you need to test the feedback in the service, contact [DfE DesignOps](https://design.education.gov.uk/design-ops) team for the environment variables.
+
 
 ## Add a new profession and job descriptions
 
@@ -103,4 +115,4 @@ When a change is merged into the main branch, the Heroku pipeline automatically 
 
 [https://ddt-job-descriptions-5ca184d3d4ce.herokuapp.com](https://ddt-job-descriptions-5ca184d3d4ce.herokuapp.com)
 
-
+Live site is hosted on [https://job-descriptions.education.gov.uk](https://job-descriptions.education.gov.uk)
