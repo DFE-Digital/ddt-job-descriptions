@@ -19,41 +19,41 @@ gulp.task('process-scss', function () {
 });
 
 gulp.task('copy-govuk-js', function () {
-    return gulp.src('node_modules/govuk-frontend/dist/govuk/all.bundle.js')
-      .pipe(copy('app/assets/js', { prefix: 3 }));
-  });
+  return gulp.src('node_modules/govuk-frontend/dist/govuk/govuk-frontend.min.js')
+    .pipe(copy('app/assets/js', { prefix: 3 }));
+});
 
-  gulp.task('copy-dfefrontend-js', function () {
-    return gulp.src('node_modules/dfe-frontend-alpha/dist/dfefrontend.js')
-      .pipe(copy('app/assets/js', { prefix: 3 }));
-  });
+gulp.task('copy-dfefrontend-js', function () {
+  return gulp.src('node_modules/dfe-frontend/dist/dfefrontend.js')
+    .pipe(copy('app/assets/js', { prefix: 3 }));
+});
 
 // Set up a task to process JavaScript files
-gulp.task('process-js', gulp.series('copy-govuk-js','copy-dfefrontend-js', function () {
-    return gulp.src('app/assets/js/**/*.js')
-      .pipe(uglify())
-      .pipe(rename({ suffix: '.min' }))
-      .pipe(gulp.dest('public/assets/js'))
-      .pipe(browserSync.stream());
-  }));
+gulp.task('process-js', gulp.series('copy-govuk-js', 'copy-dfefrontend-js', function () {
+  return gulp.src('app/assets/js/**/*.js')
+    .pipe(uglify())
+    .pipe(rename({ suffix: '.min' }))
+    .pipe(gulp.dest('public/assets/js'))
+    .pipe(browserSync.stream());
+}));
 
-  gulp.task('copy-assets', function () {
-    return gulp.src('node_modules/dfe-frontend-alpha/packages/assets/**/*.{jpg,jpeg,png,gif,svg}')
-      .pipe(copy('app/assets/images', { prefix: 6 }));
-  });
-  
+gulp.task('copy-assets', function () {
+  return gulp.src('node_modules/dfe-frontend/packages/assets/**/*.{jpg,jpeg,png,gif,svg}')
+    .pipe(copy('app/assets/images', { prefix: 6 }));
+});
 
-  gulp.task('process-images-copy', async function () {
-    return gulp.src('app/assets/images/**/*')
-      .pipe(gulp.dest('public/assets/images'));
-  });
-  gulp.task('process-images', async function () {
-    return gulp.src('app/assets/images/**/*.png')
+
+gulp.task('process-images-copy', async function () {
+  return gulp.src('app/assets/images/**/*')
+    .pipe(gulp.dest('public/assets/images'));
+});
+gulp.task('process-images', async function () {
+  return gulp.src('app/assets/images/**/*.png')
     .pipe(webp())
-      .pipe(gulp.dest('public/assets/images'));
-  });
+    .pipe(gulp.dest('public/assets/images'));
+});
 
-gulp.task('nunjucksRender', function() {
+gulp.task('nunjucksRender', function () {
   return gulp.src('app/views/**/*.html')
     .pipe(nunjucksRender({
       path: ['app/views/'] // set the path to your templates here
@@ -74,8 +74,8 @@ gulp.task('watch', function () {
   gulp.watch('app/assets/js/**/*.js', gulp.series('process-js'));
   gulp.watch('app/assets/images/**/*.png', gulp.series('process-images'));
   gulp.watch('app/assets/images/**/*', gulp.series('process-images-copy'));
-  gulp.watch('node_modules/dfe-frontend-alpha/packages/assets/**/*.{jpg,jpeg,png,gif,svg}', gulp.series('copy-assets'));
-  gulp.watch('node_modules/dfe-frontend-alpha/dist/dfefrontend.js', gulp.series('process-js'));
+  gulp.watch('node_modules/dfe-frontend/packages/assets/**/*.{jpg,jpeg,png,gif,svg}', gulp.series('copy-assets'));
+  gulp.watch('node_modules/dfe-frontend/dist/dfefrontend.js', gulp.series('process-js'));
   gulp.watch('app/**/*.*').on('change', browserSync.reload);
 
 });

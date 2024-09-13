@@ -20,22 +20,25 @@
 
 ## You will:
 
-- lead on the design of user-centred services, iterating based on feedback and evolving requirements
-- utilise data-driven insights to inform design decisions, ensuring services meet user needs and department objectives
-- work with multidisciplinary teams, contributing to shared vision, goals and objectives
-- communicate design concepts clearly to stakeholders at all levels, influence-decision making through storytelling and evidence-based insights
-- support the implementation of service design strategies aligned to department and business area objectives
-- ensure products are accessible, designed inclusively and cater for the diverse needs of users
+- lead the iterative design of user-centred services, adapting based on user feedback, data, and requirements
+- use both qualitative and quantitative data to inform your design decisions, ensuring services meet user needs and department requirements
+- collaborate with multidisciplinary teams, contributing to shared visions, goals, and outcomes
+- communicate design concepts clearly to stakeholders, using storytelling and evidence to influence decision-making
+- support the implementation of service design strategies that align with broader department objectives
+- ensure products are accessible and designed inclusively, meeting the diverse needs of all users, in line with government and department standards
 
-## You’ll have
+## Skills you need
 
-- the ability to create design concepts and collaborate with other designers and developers to implement and continually refine services
-- the expertise to use qualitative and quantitative data to identify user needs, uncover opportunities, and inform design decisions
-- the skills to map user journeys and contribute to the creation of service blueprints and maps
-- the capability to contribute to workshops, co-design sessions, and reviews, ensuring diverse perspectives are included in the design process
-- the ability to build and maintain strong relationships with stakeholders across the department
-- the communication skills to clearly convey design ideas and concepts, adapting your approach to suit different audiences
-- the ability to use storytelling techniques to influence and engage stakeholders at all levels of the organisation
-- the knowledge to support long-term strategies and contribute to the development of the service design profession
-- the ability to explain and work with accessibility standards, ensuring that services meet or exceed them
-- the commitment to advocate for the diverse needs of users and collaborate with accessibility specialists to identify and address barriers in services
+It is essential that you can demonstrate the following experience in your application and at the interview:
+
+- proven experience leading user-centred design initiatives, applying iterative design principles, and using user research to drive continuous improvement, including mapping services and user journeys
+- ability to analyse both qualitative and quantitative data, including user behaviour and service performance insights, to inform and iterate on service design decisions
+- strong communication skills, with the ability to articulate complex design ideas, influence stakeholders through storytelling and evidence-based insights
+- experience working in multidisciplinary teams, incorporating diverse perspectives, and ensuring designs are inclusive and meet accessibility standards
+
+It is desirable that you demonstrate the following:
+
+- Experience of working with advanced iterative methodologies such as Lean UX
+- Proficiency in advanced data analysis tools and techniques to identify opportunities for innovation and improvement
+- Expertise in facilitating co-design workshops with diverse stakeholders and enabling effective collaboration across large or complex organisations
+- Advanced understanding of inclusive design principles, with experience of working in projects that prioritise accessibility and cater to the diverse needs of users
