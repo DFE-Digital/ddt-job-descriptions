@@ -38,7 +38,7 @@ It is essential that you can demonstrate the following experience in your applic
 
 It is desirable that you demonstrate the following:
 
-- Experience of working with advanced iterative methodologies such as Lean UX
-- Proficiency in advanced data analysis tools and techniques to identify opportunities for innovation and improvement
-- Expertise in facilitating co-design workshops with diverse stakeholders and enabling effective collaboration across large or complex organisations
-- Advanced understanding of inclusive design principles, with experience of working in projects that prioritise accessibility and cater to the diverse needs of users
+- experience of working with advanced iterative methodologies such as Lean UX
+- proficiency in advanced data analysis tools and techniques to identify opportunities for innovation and improvement
+- expertise in facilitating co-design workshops with diverse stakeholders and enabling effective collaboration across large or complex organisations
+- advanced understanding of inclusive design principles, with experience of working in projects that prioritise accessibility and cater to the diverse needs of users
