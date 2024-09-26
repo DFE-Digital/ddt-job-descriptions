@@ -58,6 +58,11 @@
                 "slug": "lead-enterprise-architect",
                 "group": "Enterprise Architect",
                 "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "grade": "G6"
             }
         ]
     },
@@ -121,8 +126,8 @@
                 "grade": "G6"
             },
             {
-                "role": "Principle developer",
-                "slug": "lead-developer",
+                "role": "Principal developer",
+                "slug": "principal-developer",
                 "grade": "G6"
             },
             {
