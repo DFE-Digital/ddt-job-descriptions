@@ -8,8 +8,8 @@ Service designers design the end-to-end journey of a service. This helps a user 
 
 In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.
 
-You can find out more about the service design profession in the [design manual](https://design-beta-9622f3e8ca79.herokuapp.com/professions/service-design)
-
+You can find out more about the service design profession in the [design manual](https://design.education.gov.uk/design-ops/professions/service-design)
+ 
 ### Government Digital and Data Profession Capability Framework
 
 Find out more about the service design profession [role and skill levels on the GDD site](https://ddat-capability-framework.service.gov.uk/role/service-designer).

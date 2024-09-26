@@ -4,52 +4,48 @@
 {% set pageDescription = "Find and use job descriptions for Digital, Data, and Technology professions in the Department
 for Education."%}
 
-
 {% block hero %}
-<section class="dfe-page-hero">
-  <div class="dfe-width-container ">
-    <div class="govuk-grid-row">
-      <div class="govuk-grid-column-two-thirds">
-        <h1 class="govuk-heading-xl">Job descriptions</h1>
-        <p class="govuk-body-l">{{pageDescription}}</p>
+  <section class="dfe-page-hero">
+    <div class="dfe-width-container ">
+      <div class="govuk-grid-row">
+        <div class="govuk-grid-column-two-thirds">
+          <h1 class="govuk-heading-xl">Job descriptions</h1>
+          <p class="govuk-body-l">{{pageDescription}}</p>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 {% endblock %}
 
 {% block content %}
-<div class="dfe-width-container ">
-  <div class="govuk-grid-row">
-    <div class="govuk-grid-column-full">
+  <div class="dfe-width-container ">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-full">
 
+        {% for family, groupedProfessions in professionsGroupedByFamily %}
 
+          <section>
+            <h1 class="govuk-heading-l">{{ family }}</h1>
+            <div class="dfe-grid-container dfe-grid-container--wider">
 
-      {% for family, groupedProfessions in professionsGroupedByFamily %}
-
-      <section>
-        <h1 class="govuk-heading-l">{{ family }}</h1>
-        <div class="dfe-grid-container dfe-grid-container--wider">
-          {% for profession in groupedProfessions %}
-          <div class="dfe-card">
-            <div class="dfe-card-container">
-              <h2 class="govuk-heading-s">
-                <a href="/profession/{{profession.slug}}"
+              {% for profession in groupedProfessions %}
+                <div class="dfe-card">
+                  <div class="dfe-card-container">
+                    <h2 class="govuk-heading-s">
+                      <a href="/profession/{{profession.slug}}"
                   class="govuk-link govuk-link--no-visited-state dfe-card-link--header">{{profession.name}}</a>
-              </h2>
-              <p class="govuk-body-s">{{profession.description}}</p>
-              <p class="govuk-body-s govuk-!-margin-bottom-0">{{profession.roles | length}} role descriptions</p>
+                    </h2>
+                    <p class="govuk-body-s">{{profession.description}}</p>
+                    <p class="govuk-body-s govuk-!-margin-bottom-0">{{profession.roles | length}} role descriptions</p>
+                  </div>
+                </div>
+              {% endfor %}
             </div>
-          </div>
-          {% endfor %}
-        </div>
-      </section>
+          </section>
 
-      {% endfor %}
+        {% endfor %}
 
-
-
+      </div>
     </div>
   </div>
-</div>
 {% endblock %}
