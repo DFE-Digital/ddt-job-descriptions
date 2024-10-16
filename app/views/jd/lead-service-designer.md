@@ -1,4 +1,4 @@
-## Senior service designer
+## Lead service designer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
