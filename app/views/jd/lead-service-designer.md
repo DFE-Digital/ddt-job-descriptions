@@ -29,17 +29,22 @@
 - lead on the creation of accessible and inclusive services, ensuring compliance with legal and department standards
 - advocate for the needs of all users, particularly those from marginalised or underrepresented groups
 
-## You’ll have
+## Skills you need
 
-- experience of designing government or public services
+It is essential that you can demonstrate the following experience in your application and at the interview:
+
 - the ability to set the standard for iterative design practices, guiding teams through complex projects from initial concept to final implementation
 - the skills to mentor and coach teams in adopting and refining iterative processes, ensuring a consistent focus on user needs and outcomes across all stages of design
 - the capability to lead the strategic use of data in service design, integrating insights from a wide range of sources to drive innovation and effectiveness
+- the expertise to provide guidance on best practices for inclusive design, ensuring that all services meet or exceed legal, ethical, and user needs
+- the commitment to contribute to the development of policies and practices that embed accessibility and inclusive design into the organisation’s culture and processes
+
+It is desirable that you demonstrate the following:
+
+- experience of designing government or public services
 - the expertise to develop and oversee data-driven strategies that ensure design decisions are informed by robust analysis and user research
 - the experience to lead complex co-design sessions, integrating diverse perspectives to create innovative and user-focused services
 - the ability to build and maintain strong, strategic relationships with key stakeholders
 - the skills to articulate and champion design concepts and strategies at the highest levels of the organisation, influencing executive decision-making
 - the ability to create and deliver compelling narratives that communicate the strategic value of design
-- the capability to define and lead the strategic direction of service design within your business area, working with the Head of Profession to align design initiatives
-- the expertise to provide guidance on best practices for inclusive design, ensuring that all services meet or exceed legal, ethical, and user needs
-- the commitment to contribute to the development of policies and practices that embed accessibility and inclusive design into the organisation’s culture and processes
+- the capability to define and lead the strategic direction of service design within your business area, working with the head of profession to align design initiatives
