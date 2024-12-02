@@ -19,6 +19,20 @@
   </div></dl>
 
 
+  <div class="govuk-notification-banner" role="region" aria-labelledby="govuk-notification-banner-title" data-module="govuk-notification-banner">
+  <div class="govuk-notification-banner__header">
+    <h2 class="govuk-notification-banner__title" id="govuk-notification-banner-title">
+      Important
+    </h2>
+  </div>
+  <div class="govuk-notification-banner__content">
+    <p class="govuk-body">
+      As of 30 November 2024, this job description is aligned to the new GDD (Government Digital and Data) <a href="https://ddat-capability-framework.service.gov.uk/role/service-designer" target="_blank" rel="noopener noreferrer">service design capability framework <span class="govuk-visually-hidden">(opens in new tab)</a></a>.
+    </p>
+  </div>
+</div>
+
+
 ## You will
 
 - drive the design of complex, user-centred services both in teams and across the department, setting the vision and ensuring iterative processes lead to successful outcomes
@@ -39,7 +53,7 @@ It is essential that you can demonstrate the following experience in your applic
 - the expertise to provide guidance on best practices for inclusive design, ensuring that all services meet or exceed legal, ethical, and user needs
 - the commitment to contribute to the development of policies and practices that embed accessibility and inclusive design into the organisation’s culture and processes
 
-It is desirable that you demonstrate the following:
+It is desirable if you can demonstrate the following:
 
 - experience of designing government or public services
 - the expertise to develop and oversee data-driven strategies that ensure design decisions are informed by robust analysis and user research

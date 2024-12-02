@@ -53,7 +53,7 @@ In addition, the following essential criteria will also need to be demonstrated 
 - The ability to look beyond immediate technical problems and identify the wider implications.
 - Practical knowledge at many levels of the web stack, from front-end code, down to infrastructure and networking.
 
-It is desirable that you demonstrate the following:
+It is desirable if you can demonstrate the following:
 
 - Experience of applying the UK Government Service Standard, service assessment and spend controls.
 - Experience of software development in either Ruby, .Net or similar.

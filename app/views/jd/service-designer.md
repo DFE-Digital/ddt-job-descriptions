@@ -1,4 +1,4 @@
-## Service designer
+## Midweight service designer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -6,7 +6,7 @@
       Grade
     </dt>
     <dd class="govuk-summary-list__value">
-      SEO
+      SEO (Midweight)
     </dd>
   </div>
    <div class="govuk-summary-list__row" data-ignore="true">
@@ -17,6 +17,20 @@
       <a href="word">Word document</a>
     </dd>
   </div></dl>
+
+
+  <div class="govuk-notification-banner" role="region" aria-labelledby="govuk-notification-banner-title" data-module="govuk-notification-banner">
+  <div class="govuk-notification-banner__header">
+    <h2 class="govuk-notification-banner__title" id="govuk-notification-banner-title">
+      Important
+    </h2>
+  </div>
+  <div class="govuk-notification-banner__content">
+    <p class="govuk-body">
+      As of 30 November 2024, this job description is aligned to the new GDD (Government Digital and Data) <a href="https://ddat-capability-framework.service.gov.uk/role/service-designer" target="_blank" rel="noopener noreferrer">service design capability framework <span class="govuk-visually-hidden">(opens in new tab)</a></a>.
+    </p>
+  </div>
+</div>
 
 ## You will:
 
@@ -36,7 +50,7 @@ It is essential that you can demonstrate the following experience in your applic
 - strong communication skills, with the ability to articulate complex design ideas, influence stakeholders through storytelling and evidence-based insights
 - experience working in multidisciplinary teams, incorporating diverse perspectives, and ensuring designs are inclusive and meet accessibility standards
 
-It is desirable that you demonstrate the following:
+It is desirable if you can demonstrate the following:
 
 - experience of working with advanced iterative methodologies such as Lean UX
 - proficiency in advanced data analysis tools and techniques to identify opportunities for innovation and improvement

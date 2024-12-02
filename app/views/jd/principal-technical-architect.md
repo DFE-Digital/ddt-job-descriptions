@@ -56,7 +56,7 @@ In addition, the following essential criteria will also need to be demonstrated 
 - Practical knowledge at many levels of the web stack, from front-end code, down to infrastructure and networking.
 - Ability to communicate and work with senior stakeholders to produce effective strategies for technology choices, using the most appropriate languages, frameworks and tools to meet user and business needs.
 
-It is desirable that you demonstrate the following:
+It is desirable if you can demonstrate the following:
 
 - Experience using automated tests to continuously validate your work.
 - Experience of applying the UK Government Service Standard and service assessment.

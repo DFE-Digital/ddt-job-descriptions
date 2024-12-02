@@ -1,4 +1,4 @@
-## Interaction designer
+## Midweight interaction designer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -6,7 +6,7 @@
       Grade
     </dt>
     <dd class="govuk-summary-list__value">
-      SEO
+      SEO (Midweight)
     </dd>
   </div>
    <div class="govuk-summary-list__row" data-ignore="true">
@@ -18,27 +18,40 @@
     </dd>
   </div></dl>
 
+<div class="govuk-notification-banner" role="region" aria-labelledby="govuk-notification-banner-title" data-module="govuk-notification-banner">
+  <div class="govuk-notification-banner__header">
+    <h2 class="govuk-notification-banner__title" id="govuk-notification-banner-title">
+      Important
+    </h2>
+  </div>
+  <div class="govuk-notification-banner__content">
+    <p class="govuk-body">
+      As of 30 November 2024, this job description is aligned to the new GDD (Government Digital and Data) <a href="https://ddat-capability-framework.service.gov.uk/role/interaction-designer" target="_blank" rel="noopener noreferrer">interaction design capability framework <span class="govuk-visually-hidden">(opens in new tab)</a></a>.
+    </p>
+  </div>
+</div>
+
 ## You will
 
-* be part of the user-centred design team and DfE’s growing design community of practice
-* have experience of advocating for user needs in all aspects of design work
-* map end-to-end services and understand how they fit into wider societal, service, system and organisational contexts
-* know how to design inclusive, accessible digital services that solve a whole problem for users
-* capture, document and present holistic experiences in a clear, engaging way
-* communicate effectively to share the as-is and the future vision of the service, working closely with service owners to help define the backlog
-* use data and evidence to improve how the end to end service works
-* help people and teams overcome complexity, using collaborative approaches to create clarity, alignment and direction
-* analyse failure within services and identify root causes for failure
-* actively promote the design perspective in discussions with teams and stakeholders
+-	design and prototype user interfaces that align with user needs and business requirements
+-	collaborate with UCD professionals, including researchers, service designers, and content designers, to turn insights into functional and engaging designs
+-	use data and evidence to refine and improve designs, making informed decisions based on testing and user feedback
+-	advocate for user needs throughout the design process, ensuring solutions are accessible, inclusive, and solve complete user problems
+-	communicate design solutions effectively to stakeholders, contributing to the overall vision for the service
 
-## You’ll have
 
-### Essential
+## Skills you need
 
-* **Agile working**. You have experience of working in agile, including an awareness of agile tools and how to use them.
-* **Communication skills**. You can listen to the needs of technical and business stakeholders, and interpret them in a way that is clear for both audiences. You know how to manage stakeholder expectations. You can be flexible and you are capable of proactive and reactive communication. You know how to facilitate difficult discussions within the team or with diverse senior stakeholders.
-* **Community collaboration**. You know how to work collaboratively within a group, actively networking with others and varying feedback for the appropriate time to ensure the discussion sticks. You can use your initiative to identify problems or issues in the team dynamic and rectify them. You can pull out issues through agile health-checks with the team to provoke the right responses.
-* **Evidence- and context-based design**. Work with data. You can absorb large amounts of conflicting information and use it to produce simple designs, to help with decision making. Use evidence to shape business processes, systems and workflow to better serve users.
-* **Prototyping**. You approach prototyping as a team activity, actively soliciting prototypes and testing with others. You can establish design patterns and iterate them. You can use a variety of methods of prototyping and choose the most appropriate ones.
-* **Strategic thinking**. You can define strategies and policies, providing guidance to others on working in the strategic context. You know how to evaluate current strategies to ensure business requirements are being met and exceeded where possible. 
-* **User focus**. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used.
+It is essential that you can demonstrate the following experience in your application and at the interview:
+
+-	strong skills in prototyping interactive user interfaces, choosing appropriate methods to test and validate ideas
+-	proficient in using data and testing results to inform design decisions, creating interfaces that are evidence-based and user-centred
+-	skilled at presenting design concepts and rationale to stakeholders in a clear, engaging way.
+-	able to manage expectations, facilitate discussions, and encourage collaboration among diverse stakeholders
+-	experience designing products that cater to a wide range of users, ensuring all designs are accessible and usable by all
+-	experienced in agile working practices, adapting to iterative feedback and prioritising tasks based on user and business needs
+
+It is desirable if you can demonstrate the following:
+
+- be able to prototype in code using HTML, CSS and JavaScript
+-	strong analytical skills to identify and address issues within service designs, improving reliability and usability

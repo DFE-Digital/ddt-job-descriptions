@@ -212,7 +212,12 @@
         "description": "Interaction designers design the way people use a product, in our case digital products, websites and services. ",
         "roles": [
             {
-                "role": "Interaction designer",
+                "role": "Junior interaction designer",
+                "slug": "junior-interaction-designer",
+                "grade": "HEO"
+            },
+            {
+                "role": "Midweight interaction designer",
                 "slug": "interaction-designer",
                 "grade": "SEO"
             },
@@ -245,7 +250,7 @@
                 "grade": "HEO"
             },
             {
-                "role": "Service designer",
+                "role": "Midweight service designer",
                 "slug": "service-designer",
                 "grade": "SEO"
             },
