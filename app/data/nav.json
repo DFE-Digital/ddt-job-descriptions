@@ -3,7 +3,7 @@
         "name": "Architects",
         "slug": "architects",
         "family": "Architecture",
-        "description": "Technical, solution and enterprise architects design and oversee the implementation of technology, solutions and services.",
+        "description": "Technical, solution, business, enterprise architects design and oversee the implementation of technology, solutions and services.",
         "roles": [
             {
                 "role": "Technical architect",
@@ -62,7 +62,14 @@
             {
                 "role": "Head of profession",
                 "slug": "head-of-profession",
+                "group": "Enterprise Architect",
                 "grade": "G6"
+            },
+            {
+                "role": "Business Architect",
+                "slug": "business-architect",
+                "group": "Business Architect",
+                "grade": "G7"
             }
         ]
     },

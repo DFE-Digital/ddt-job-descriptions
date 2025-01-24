@@ -33,7 +33,7 @@ Solution Architects own the overall technical vision for a solution or set of so
 
 Technical architects are generally embedded within a multi-disciplinary team (or across multiple teams), working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines, e.g. software development, data, security, DevOps. They tend to work in continuous delivery environments and are comfortable with turning business problems into technical design. They tend to be from a software development or engineering background and are comfortable using technical toolsets and/or code.
 
-Technical architects currently work in portfolios and service lines within DfE, such as those found in Teacher Services or Children and Families, for example. 
+Technical architects currently work in portfolios and service lines within DfE, such as Teacher Services, Children and Families or Growth and Skills, for example.
 
 ### Data architects
 
