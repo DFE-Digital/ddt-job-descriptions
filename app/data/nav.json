@@ -73,77 +73,6 @@
             }
         ]
     },
-        {
-            "name": "Data engineering",
-            "slug": "data-engineering",
-            "family": "Data",
-            "description": "A data engineer develops and constructs data products and services, and integrates them into systems and business processes.",
-            "roles": [
-                {
-                    "role": "Junior data engineer",
-                    "slug": "junior-data-engineer",
-                    "grade": "HEO"
-                },
-                {
-                    "role": "Data engineer",
-                    "slug": "data-engineer",
-                    "grade": "SEO"
-                },
-                {
-                    "role": "Senior data engineer",
-                    "slug": "senior-data-engineer",
-                    "grade": "G7"
-                },
-                {
-                    "role": "Lead data engineer",
-                    "slug": "lead-data-engineer",
-                    "grade": "G6"
-                },
-                {
-                    "role": "Head of data engineering",
-                    "slug": "head-of-data-engineering",
-                    "grade": "SCS1"
-                }
-            ]
-        },
-    {
-        "name": "Software developers",
-        "slug": "software-developers",
-        "family": "Software development",
-        "description": "A software developer designs, builds and improves software that meets user needs.",
-        "roles": [
-            {
-                "role": "Junior developer",
-                "slug": "junior-developer",
-                "grade": "HEO"
-            },
-            {
-                "role": "Software developer",
-                "slug": "software-developer",
-                "grade": "SEO"
-            },
-            {
-                "role": "Senior developer",
-                "slug": "senior-developer",
-                "grade": "G7"
-            },
-            {
-                "role": "Lead developer",
-                "slug": "lead-developer",
-                "grade": "G6"
-            },
-            {
-                "role": "Principal developer",
-                "slug": "principal-developer",
-                "grade": "G6"
-            },
-            {
-                "role": "Head of profession",
-                "slug": "head-of-profession",
-                "grade": "G6"
-            }
-        ]
-    },
     {
         "name": "DevOps",
         "slug": "devops",
@@ -171,7 +100,8 @@
                 "grade": "SEO"
             }
         ]
-    },{
+    },
+    {
         "name": "Accessibility specialist",
         "slug": "accessibility-specialist",
         "family": "User-centered design",
