@@ -7,7 +7,7 @@
       Grade
     </dt>
     <dd class="govuk-summary-list__value">
-      SEO
+      G7
     </dd>
   </div>
    <div class="govuk-summary-list__row" data-ignore="true">
