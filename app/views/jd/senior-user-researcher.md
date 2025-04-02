@@ -1,4 +1,4 @@
-## Senior user researcher
+# Senior user researcher
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">

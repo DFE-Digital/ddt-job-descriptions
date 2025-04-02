@@ -1,4 +1,4 @@
-## Senior technical architect
+# Senior technical architect
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">

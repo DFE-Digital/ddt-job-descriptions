@@ -1,4 +1,4 @@
-## Lead service designer
+# Lead service designer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -39,7 +39,7 @@ It is essential that you can demonstrate the following experience in your applic
 - the skills to mentor and coach teams in adopting and refining iterative processes, ensuring a consistent focus on user needs and outcomes across all stages of design
 - the capability to lead the strategic use of data in service design, integrating insights from a wide range of sources to drive innovation and effectiveness
 - the expertise to provide guidance on best practices for inclusive design, ensuring that all services meet or exceed legal, ethical, and user needs
-- the commitment to contribute to the development of policies and practices that embed accessibility and inclusive design into the organisation’s culture and processes
+- the commitment to contribute to the development of policies and practices that embed accessibility and inclusive design into the organisation's culture and processes
 
 It is desirable if you can demonstrate the following:
 

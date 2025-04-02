@@ -1,4 +1,4 @@
-## Senior developer
+# Senior developer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -37,7 +37,7 @@
 
 * Support sharing of methods and technologies across teams, government, and the industry by participating in and organising community events
 
-## You’ll have
+## You'll have
 
 ### Essential
 
@@ -57,7 +57,7 @@
 
 ### Technical skills
 
-We’ll assess you against these technical skills during the selection process
+We'll assess you against these technical skills during the selection process
 
 * Modern standard approach - You can use a modern standards approach to solve problems, using test driven development (TDD) techniques
   

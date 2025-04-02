@@ -1,4 +1,4 @@
-## Head of service design
+# Head service design
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">

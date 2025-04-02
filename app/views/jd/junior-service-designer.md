@@ -1,4 +1,4 @@
-## Junior service designer
+# Junior service designer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -34,7 +34,7 @@
 - learn how to apply accessibility and inclusive design practices and principles in your work 
 - consider the needs of a wide range of users in your design work 
 
-## You’ll have
+## You'll have
 
 - the ability to work with user researchers and designers to contribute to defining and writing user needs.
 - the skills to map a basic user journey, ensuring it aligns with identified user needs

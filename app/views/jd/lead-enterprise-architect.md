@@ -1,5 +1,4 @@
-
-## Lead enterprise architect
+# Lead enterprise architect
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -26,9 +25,9 @@ You will be working in [for example] the Schools and Curriculum digital delivery
 
 ## The role
 
-All​ ​architects​ ​within​ ​Government​ ​are​ ​​responsible​ ​for​ ​the​ ​design​ and build​ of​ both solution and technical​ ​architectures​. It is their job to communicate ​​the​ ​vision​ ​for​ ​government services​ ​to​ ​developers​ ​and​ ​non-developers​ ​alike.​ ​You’ll​ ​thrive​ ​using​ ​agile​ ​methods​ ​and enjoy​ ​working​ ​with​ ​departments​ ​and​ ​in​ ​multidisciplinary​ ​teams.​Above​ ​all,​ ​you’ll​ ​want​ ​to make​ ​government​ ​better,​ ​which​ ​may​ ​sometimes​ ​involve​ ​challenging​ ​the​ ​status​ ​quo.
+All​ ​architects​ ​within​ ​Government​ ​are​ ​​responsible​ ​for​ ​the​ ​design​ and build​ of​ both solution and technical​ ​architectures​. It is their job to communicate ​​the​ ​vision​ ​for​ ​government services​ ​to​ ​developers​ ​and​ ​non-developers​ ​alike.​ ​You'll​ ​thrive​ ​using​ ​agile​ ​methods​ ​and enjoy​ ​working​ ​with​ ​departments​ ​and​ ​in​ ​multidisciplinary​ ​teams.​Above​ ​all,​ ​you'll​ ​want​ ​to make​ ​government​ ​better,​ ​which​ ​may​ ​sometimes​ ​involve​ ​challenging​ ​the​ ​status​ ​quo.
 
-You will lead analysis of the organisation’s future-state capabilities and current / future IT environment, to detect critical deficiencies and recommend solutions for improvement, driving the organisation forward. To do this, you will have​ ​a​ ​good​ ​understanding​ ​of​ ​a​ ​broad​ ​range​ ​of​ ​technologies and​ ​the ability​ ​to​ ​take​ ​a​ ​balanced​ ​approach​ ​to​ ​technology​ ​selection. You’ll be able​ ​to​ ​converse​ ​easily​ ​with​ ​and​ ​translate​ ​between​ ​non-technical​ ​stakeholders and​ ​technical​ ​practitioners. ​ ​You’ll be able to​ ​switch​ ​between​ ​different​ ​problems​ ​and responsibilities​ ​and​ ​be directly​ ​involved​ ​in​ ​service​ ​delivery.
+You will lead analysis of the organisation's future-state capabilities and current / future IT environment, to detect critical deficiencies and recommend solutions for improvement, driving the organisation forward. To do this, you will have​ ​a​ ​good​ ​understanding​ ​of​ ​a​ ​broad​ ​range​ ​of​ ​technologies and​ ​the ability​ ​to​ ​take​ ​a​ ​balanced​ ​approach​ ​to​ ​technology​ ​selection. You'll be able​ ​to​ ​converse​ ​easily​ ​with​ ​and​ ​translate​ ​between​ ​non-technical​ ​stakeholders and​ ​technical​ ​practitioners. ​ ​You'll be able to​ ​switch​ ​between​ ​different​ ​problems​ ​and responsibilities​ ​and​ ​be directly​ ​involved​ ​in​ ​service​ ​delivery.
 
 You could be working on anything from transforming core technology services to architecting substantial digital services [for example] the Schools and Curriculum digital delivery portfolio, which includes services like Get help buying for your school, Start and manage an academy and Build or repair a school. Other examples of our services include [​​Find​ ​an apprenticeship](https://www.findapprenticeship.service.gov.uk/apprenticeshipsearch)​,​ ​​[School​ ​performance​ ​tables](https://www.gov.uk/school-performance-tables)​,​ ​​[Get​ ​information​ ​about​ ​schools](https://get-information-schools.service.gov.uk/)​ and​ ​​[Get​ ​into teaching](https://getintoteaching.education.gov.uk/). O​ur​​ services​ ​are​ ​​developed​ ​by​ ​multi-disciplinary​ ​teams​ ​using ​a​ ​variety of​ technologies​ - ​​you​ ​would​ ​ideally​ ​have​ ​experience​ ​across multiple platforms, technologies and delivery methodologies.
 

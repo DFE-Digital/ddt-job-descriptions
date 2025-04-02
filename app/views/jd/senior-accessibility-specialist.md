@@ -1,3 +1,5 @@
+# Senior accessibility specialist
+
 As an accessibility specialist within the Department for Education you’ll work with multidisciplinary teams, alongside researchers, designers, and developers to ensure we deliver user-centred services that are accessible and inclusive. 
 
 ## You will

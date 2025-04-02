@@ -1,4 +1,4 @@
-## Senior DevOps Engineer
+# Senior DevOps engineer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -20,7 +20,7 @@
 
 We are looking for a Senior DevOps Engineer to join our community of digital specialists, to help deliver more great services.
 
-You will work in a team of skilled DevOps Engineers, providing DevOps capability to the Department For Education’s [insert division]. You will be working with multi-disciplinary teams who deliver user-centred, digital services for all of our users. Working in close collaboration with other engineers and software developers, you will use the latest technologies and trends to ensure services are deployed continuously, monitored appropriately and are resilient and scaleable.
+You will work in a team of skilled DevOps Engineers, providing DevOps capability to the Department For Education's [insert division]. You will be working with multi-disciplinary teams who deliver user-centred, digital services for all of our users. Working in close collaboration with other engineers and software developers, you will use the latest technologies and trends to ensure services are deployed continuously, monitored appropriately and are resilient and scaleable.
 
 As a Senior DevOps Engineer, you will keep developing your skills to build your engineering career, as well as leading and coaching other DevOps Engineers.
 
@@ -37,7 +37,7 @@ As a Senior DevOps Engineer, you will keep developing your skills to build your 
  * Transform government into a modern, agile development centre by embedding practices such as continuous deployment, and DevOps
  * Support sharing of methods and technologies across teams, government, and the industry by participating in and organising community events
 
-## You’ll have:
+## You'll have:
 
 ### Essential:
 
@@ -57,7 +57,7 @@ As a Senior DevOps Engineer, you will keep developing your skills to build your 
     
 ### Technical skills:
 
-We’ll assess you against these technical skills during the selection process
+We'll assess you against these technical skills during the selection process
 
  * Availability and capacity management - You control and manage service availability to meet the needs of the business
  * Programming and build - You can write clear, concise and maintainable code using standard tools

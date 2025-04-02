@@ -1,4 +1,4 @@
-## Junior developer
+# Junior developer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -32,7 +32,7 @@
 
 * Help build and maintain a diverse, inclusive culture across the development community, growing awareness, inclusivity, and balance.
 
-## You’ll have
+## You'll have
 
 ### Essential  
 
@@ -48,6 +48,6 @@
 
 ### Technical skills
 
-We’ll assess you against these technical skills during the selection process
+We'll assess you against these technical skills during the selection process
 
 * A pragmatic approach to problem solving

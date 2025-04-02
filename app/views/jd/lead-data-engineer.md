@@ -1,4 +1,4 @@
-## Lead data engineer
+# Lead data engineer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -45,7 +45,7 @@ The skills and expertise we will assess you against are:
 - **Strategic Planning**. Extensive proven experience of setting the strategic direction for data engineering teams, whilst continuously improving delivery and keeping up to date with industry innovations and changes in your specialism.
 - **Data development process**. Extensive hands-on experience at a senior level of setting up and delivering data pipelines in a cloud environment. Strong understanding of modern data architecture and data management practices. Ability to provide the strategic vision for data services and products, championing self-service and modernising data delivery.
 - **Agile working**. Strong experience of mentoring and leading teams in Agile/DevOps delivery and working across multi-disciplinary teams with delivery, architecture, testing, infrastructure, and operations stakeholders.
-- **Collaboration**. Ability to mediate between people and mend relationships, communicating with stakeholders at all levels. You know how to manage stakeholders’ expectations and facilitate discussions across high risk or complexity or under constrained timescales.
+- **Collaboration**. Ability to mediate between people and mend relationships, communicating with stakeholders at all levels. You know how to manage stakeholders' expectations and facilitate discussions across high risk or complexity or under constrained timescales.
 - **Programming and build**. Extensive experience of programming and using data engineering tools, including SQL, Python, Azure Data Factory, Informatica DEI, and/or Databricks.
 - **Problem resolution**. In-depth knowledge of the types of common problems in data structures, process, and products, and their resolution techniques. Strong problem-solving skills, including assessing and mitigating risks while identifying opportunities for innovation.
 - **Coaching, mentoring, and learning**. Coaching and mentoring junior members of the team on their professional development. Developing and keeping yourself up to date with the latest data engineering trends and being able to translate the learning into your build where applicable.

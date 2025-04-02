@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 Interaction designers are responsible for:
 

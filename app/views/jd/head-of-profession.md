@@ -1,4 +1,4 @@
-## Head of profession
+# Head of profession
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -23,7 +23,7 @@
 * Setting the vision and strategy for the profession across the department
 * Collaborate with the wider department to ensure that the vision for the profession aligns to the wider needs of the department
 * Creating a plan and roadmap to build and strengthen the professional capability and excellence
-* Working across government and the sector to ensure a cohesive approach for the profession, creating opportunities for collaboration through existing networks or setting up new networks where they don’t exist
+* Working across government and the sector to ensure a cohesive approach for the profession, creating opportunities for collaboration through existing networks or setting up new networks where they don't exist
 * Hold authority to ensure that specialists are able to contribute towards building the profession and participate in communities, backed by DDT Committee
 * Raising the profile of the profession across the department
 * Develop an attraction and retention strategy, to grow professional capability in the department

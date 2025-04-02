@@ -1,4 +1,4 @@
-## Lead developer
+# Lead developer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">

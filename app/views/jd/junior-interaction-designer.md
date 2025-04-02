@@ -1,4 +1,4 @@
-## Junior interaction designer
+# Junior interaction designer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">

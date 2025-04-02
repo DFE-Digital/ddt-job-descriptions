@@ -1,5 +1,4 @@
-
-## Senior solution architect
+# Senior solution architect
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -19,7 +18,7 @@
     </dd>
   </div></dl>
 
-As a senior solution architect, you will either work in a particular domain or across delivery teams in a portfolio, to find the best use of data, applications and technology for services and products that meet user’s needs.
+As a senior solution architect, you will either work in a particular domain or across delivery teams in a portfolio, to find the best use of data, applications and technology for services and products that meet user's needs.
 
 You will own the overall technical vision for a set of solutions and work with delivery teams to assure the implementation of those solutions. You will also help to deliver business change and achieve organisational objectives.
 You will be working in [for example] the Schools and Curriculum digital delivery portfolio, which includes services like Get help buying for your school, Start and manage an academy and Build or repair a school.

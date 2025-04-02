@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 Content designers are responsible for:
 

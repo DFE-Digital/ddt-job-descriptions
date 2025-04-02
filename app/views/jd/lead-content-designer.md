@@ -1,4 +1,4 @@
-## Lead content designer
+# Lead content designer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -23,7 +23,7 @@
 * Identify and build strong relationships with stakeholders, including policy, marketing, communications and legal, influencing and collaborating with them to improve the structure and quality of the content
 * Create, improve and manage user centred content that meets user needs
 * Use data analytics, user research and usability testing to identify user needs. Map journeys and user stories to inform content strategy and design decisions to assure quality
-* Develop a content strategy for the programme you’re working on ensuring it connects with the content strategy of related programmes
+* Develop a content strategy for the programme you're working on ensuring it connects with the content strategy of related programmes
 * Be responsible for content quality by managing small teams, mentoring content designers and reviewing content
 * Play an active role in the content design community at DfE and engage with the cross-government design community
 * Work with the head of content design to contribute to the content design road map and lead on a strand of it
@@ -31,7 +31,7 @@
 * Advocate the role of content designers and the value content design can bring, and embed content design practices into ways of working
 * Join the internal service assessment community and become a design assessor for services.
 
-## You’ll have
+## You'll have
 
 ### Essential
 
@@ -50,5 +50,5 @@
 
 * Champion good content design practice within government and industry
 * Prioritise and collaborate with counterpart colleagues across government
-* Develop a strategy for content that meets the organisation’s objectives
+* Develop a strategy for content that meets the organisation's objectives
 * Lead a team capable of executing that strategy

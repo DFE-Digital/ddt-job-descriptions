@@ -1,4 +1,4 @@
-## Content designer
+# Content designer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -28,7 +28,7 @@
 * Manage relationships with stakeholders, including subject matter experts, to gain understanding and make sure all content is accurate and clearly understood.
 * Establish and maintain the highest standards of accuracy, accessibility, and professionalism even if deadlines are tight and information elusive.
 
-## You’ll have
+## You'll have
 
 ### Essential
 

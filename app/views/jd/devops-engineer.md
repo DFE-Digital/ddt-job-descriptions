@@ -1,4 +1,4 @@
-## DevOps Engineer
+# DevOps engineer
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -20,7 +20,7 @@
 
 We are looking for a DevOps Engineer to join our community of digital specialists, to help deliver more great services.
 
-You will work in a team of skilled DevOps Engineers, providing DevOps capability to the Department For Education’s [insert division]. You will be working with multi-disciplinary teams who deliver user-centred digital services for all of our users. Working in close collaboration with other engineers and software developers, you will ensure services are deployed continuously, monitored appropriately and are resilient and scaleable.
+You will work in a team of skilled DevOps Engineers, providing DevOps capability to the Department For Education's [insert division]. You will be working with multi-disciplinary teams who deliver user-centred digital services for all of our users. Working in close collaboration with other engineers and software developers, you will ensure services are deployed continuously, monitored appropriately and are resilient and scaleable.
 
 As a DevOps Engineer, you will be using the latest technologies and trends, whilst delivering working software early
 and often.
@@ -42,7 +42,7 @@ Prometheus, Grafana
 * Advocate user-centric, agile approaches which focus on rapid, effective delivery of high quality digital services
 * Help build and maintain a diverse, inclusive culture across the DevOps community, growing awareness,inclusivity, and balance
 
-## You’ll have:
+## You'll have:
 
 We will assess you on the following criteria during the selection process. Should we receive a large volume of
 applications, we will only assess your application on the first two essential criteria.
