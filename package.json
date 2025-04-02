@@ -34,6 +34,7 @@
     "highlight.js": "^11.7.0",
     "jsdom": "^26.0.0",
     "lunr": "^2.3.9",
+    "markdown-it": "^14.1.0",
     "marked": "^15.0.7",
     "notifications-node-client": "^7.0.0",
     "nunjucks": "^3.2.4",
