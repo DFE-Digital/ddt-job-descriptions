@@ -1,4 +1,4 @@
-{% extends "layouts/layout_with_sidenav.html" %}
+{% extends "layouts/layout.html" %}
 
 {% set pageName = profession.name %}
 {% set pageDescription = profession.description %}
@@ -20,7 +20,38 @@
 {% block content %}
 <div class="dfe-width-container ">
     <div class="govuk-grid-row">
-        <div class="govuk-grid-column-full">
+     <div class="govuk-grid-column-one-quarter">
+
+
+          <a href="/" class="govuk-back-link govuk-!-margin-top-0 govuk-!-margin-bottom-9">Back to professions</a>
+          <nav class="dfe-vertical-nav">
+            {# Check if there are grouped roles and render the Overview link at the top #}
+            {% if profession.groupedRoles %}
+            <ul class="dfe-vertical-nav__section">
+              <li class="dfe-vertical-nav__section-item ">
+                <a class="dfe-vertical-nav__link" href="/profession/{{profession.slug}}/">Overview</a>
+              </li>
+            </ul>
+            {% endif %}
+            <h2 class="govuk-heading-m">Roles</h2>
+            {% for group, roles in profession.groupedRoles %}
+            {% if group !== 'Other' %}
+            <h3 class="govuk-heading-s">{{group}}</h3>
+            {% endif %}
+            <ul class="dfe-vertical-nav__section">
+              {# The Overview link is now outside the loop, so it doesn't repeat #}
+              {% for roleInfo in roles %}
+              <li
+                class="dfe-vertical-nav__section-item {% if roleInfo.slug === role %}dfe-vertical-nav__section-item--current{% endif %}">
+                <a class="dfe-vertical-nav__link" href="/{{profession.slug}}/{{roleInfo.slug}}/">{{roleInfo.role}}</a>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endfor %}
+          </nav>
+
+        </div>
+        <div class="govuk-grid-column-three-quarters">
 
             {% markdown %}
             {% include 'profession_overviews/'+ profession.slug+'.md'%}

@@ -8,19 +8,19 @@ var marked = require('marked');
 const bodyParser = require('body-parser');
 const fs = require('fs');
 const path = require('path');
-const markdownIt = require('markdown-it');
+const govukMarkdown = require('govuk-markdown')
 const { Document, Packer, Paragraph, TextRun } = require('docx');
 const { JSDOM } = require('jsdom');
 
+const markdownIt = require('markdown-it');
 const airtable = require('airtable');
 require('dotenv').config();
 const app = express();
-
 const md = new markdownIt();
+
 const base = new airtable({ apiKey: process.env.airtableFeedbackKey }).base(process.env.airtableFeedbackBase);
 
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+
 
 app.set('view engine', 'html');
 
@@ -42,10 +42,19 @@ var nunjuckEnv = nunjucks.configure(
 );
 
 nunjuckEnv.addFilter('date', dateFilter);
-markdown.register(nunjuckEnv, marked.parse);
+
+marked.use(govukMarkdown({
+  headingsStartWith: 'xl'
+}))
+
+
+markdown.register(nunjuckEnv, marked.parse)
 
 // Set up static file serving for the app's assets
-app.use('/assets', express.static('public/assets'));
+app.use('/govuk', express.static(path.join(__dirname, 'node_modules/govuk-frontend/govuk/assets')));
+app.use('/dfe', express.static(path.join(__dirname, 'node_modules/dfe-frontend/dist')));
+app.use('/assets', express.static('app/public'));
+app.use(express.json());
 
 // Render sitemap.xml in XML format
 app.get('/sitemap.xml', (_, res) => {

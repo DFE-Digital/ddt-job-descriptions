@@ -1,13 +1,11 @@
 {
-  "name": "job-descriptions-frontend",
-  "version": "2.1.0",
+  "name": "find-a-job-description",
+  "version": "3.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "gulp": "gulp",
-    "watch": "gulp & nodemon app.js",
-    "start": "node app.js",
-    "dev": "npm run watch"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "nodemonConfig": {
     "ext": "html"
@@ -21,32 +19,32 @@
     "body-parser": "^1.20.2",
     "cheerio": "^1.0.0-rc.12",
     "clipboard": "^2.0.11",
+    "compression": "^1.8.0",
+    "contentful": "^10.15.0",
     "dfe-frontend": "^2.0.1",
-    "docx": "^8.5.0",
+    "docx": "^9.3.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-recaptcha": "^5.1.0",
-    "fs": "^0.0.1-security",
-    "govuk-frontend": "^5.1.0",
+    "govuk-frontend": "^5.9.0",
+    "govuk-markdown": "^0.8.0",
     "gulp-nunjucks-render": "^2.2.3",
     "gulp-webp": "^4.0.1",
+    "helmet": "^6.1.5",
     "highlight.js": "^11.7.0",
-    "html-docx-js": "^0.3.1",
-    "https": "^1.0.0",
-    "jsdom": "^25.0.0",
+    "jsdom": "^26.0.0",
     "lunr": "^2.3.9",
-    "markdown-it": "^14.1.0",
-    "marked": "^4.3.0",
+    "marked": "^15.0.7",
     "notifications-node-client": "^7.0.0",
     "nunjucks": "^3.2.4",
-    "nunjucks-date": "^1.5.0",
     "nunjucks-date-filter": "^0.1.1",
     "nunjucks-markdown": "^2.0.1",
-    "officegen": "^0.6.5",
-    "path": "^0.12.7",
-    "sass": "^1.78.0"
+    "sass": "^1.76.0",
+    "serve-favicon": "^2.5.0",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
+    "axe-core": "^4.7.0",
     "browser-sync": "^2.29.1",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
@@ -55,6 +53,7 @@
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.1.4",
     "gulp-sass": "^5.1.0",
-    "gulp-uglify": "^3.0.2"
+    "gulp-uglify": "^3.0.2",
+    "puppeteer": "^19.11.1"
   }
 }
