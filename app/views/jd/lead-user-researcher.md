@@ -24,7 +24,7 @@ User researchers at Department for Education plan, design and carry out research
 
 [Read more about user research at Department for Education](https://user-research.education.gov.uk)
 
-As a lead user researcher you will be an expert practitioner, leading and aligning user research activities across a portfolio of teams, and setting the strategic direction for research in your business area.. You will:
+As a lead user researcher you will be an expert practitioner, leading and aligning user research activities across a portfolio of teams, and setting the strategic direction for research in your business area. You will:
 
 *	provide user research expertise and consultancy to your business area, and hands-on support as required
 *	ensure that teams take a user-centred, evidence-based approach to service design and delivery

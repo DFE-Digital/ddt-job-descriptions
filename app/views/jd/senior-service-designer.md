@@ -26,7 +26,7 @@
 - lead the iterative design of complex, user-centred services, adapting based on user feedback, data, and requirements
 - utilise both qualitative and quantitative data to make informed design decisions, ensuring services meet the needs of users and align with department objectives
 - collaborate effectively with multidisciplinary teams, providing leadership and guidance to ensure shared goals and successful outcomes
-- communicate complex design concepts to stakeholders at all levels, using storytelling, evidence, and design artifacts to influence decision-making and direction
+- communicate complex design concepts to stakeholders at all levels, using storytelling, evidence, and design artefacts to influence decision-making and direction
 - shape and implement service design strategies that contribute to long-term department objectives
 - ensure services are accessible and inclusive, designed to meet the diverse needs of all users, and comply with government standards on accessibility and inclusivity
 

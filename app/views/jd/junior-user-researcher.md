@@ -48,4 +48,4 @@ Desirable skills (used in the event of a tie-break situation between two candida
 *	**Digital delivery**. Experience of working in a team delivering a digital product or service
 *	[Add any other desirable skills relevant to your specific team or service – no more than one or two] 
 
-Successful applicants will be invited to a one hour interview consisting of a task and questions to assess your experience in the essential criteria listed above.
+Successful applicants will be invited to a one-hour interview consisting of a task and questions to assess your experience in the essential criteria listed above.
