@@ -37,4 +37,7 @@ Technical architects currently work in portfolios and service lines within DfE, 
 
 ### Data architects
 
-Data architects set the vision for DfE’s use of data, through data design, to meet business needs. They design and build data models to fulfil the strategic data needs of the business.
+Data architects own and deliver the vision for DfE’s use of data, and enable Service Owners to make better decisions about their data system, balancing local needs with organisational data strategy.
+
+Data architects help solve business problems, by developing the needs of services into data design and optimising management of data.  They deliver target data flow diagrams and data models (entity relationship diagrams) that promote interoperability between services, reuse of appropriate existing patterns and successful implementation of data governance.
+
