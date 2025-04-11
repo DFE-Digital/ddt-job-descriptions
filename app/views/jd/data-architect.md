@@ -21,17 +21,17 @@
 
 As a data architect, you will be creating data flows and data models that describe both the current state of a service, and also set a target that better fulfils the strategic data needs of the service and the DfE as a whole.
 
-You will be working in [for example] the Schools and Curriculum digital delivery portfolio, which includes services like Get help buying for your school, Start and manage an academy and Build or repair a school.
+You will be working with one or more teams aiming to deliver changes to Services that are critical to delivering education and children social care to the citizens of England.
 
 ## The role
 
 Your main responsibilities will include:
 
-- Maintaining an excellent relationship with service owners, looking for deeper underlying problems to solve, articulating the wider opportunities for transformation.
-- Create comprehensive data models (entity relationship) diagrams for each relational schema forming a part of the Service. This needs to cover each level of data modelling of Conceptual, Logical and Physical.
+- Maintaining an excellent relationship with your Service Owner(s) to understand their needs, looking for deeper underlying problems to solve, articulating the wider opportunities for transformation
+- Create comprehensive data models (entity relationship) diagrams for each relational schema forming a part of the Service. This needs to cover each level of data modelling of Conceptual, Logical and Physical
 - Reuse, or creating, common entities and attributes wherever there is a direct conceptual correspondence
 - Taking responsibility for the data architecture of your service(s), including how they interact with up- and downstream data systems, even as these evolve over time.
-- Working with data specialists in your service(s), on problems that require broad architectural thinking
+- Working with the other data specialists in your service(s), on problems that require broad architectural thinking
 - Define and maintain the data architecture, including metadata, orchestration for analytical use
 - Work with Data and Service Owners to capture decisions on Data Classification at attribute level
 - Provide input into data dictionaries
@@ -46,23 +46,22 @@ Your main responsibilities will include:
 It is essential that you can demonstrate the following experience in your application and at the first stage interview:
 
 - Experience working in technical teams and delivering user-centred services in an agile environment.
-- Experience of practices such as Test-Driven Development (TDD), continuous integration, automated deployment pipelines, version control with Git and DevOps.
-- Experience working with cloud-first architectures and how to build applications that take advantage of the opportunities they offer.
-- Experience of software development in either Ruby, .Net (or similar).
-- Knowledge of open source principles and technologies.
+- Experience of practices such as data model design.
+- Experience working with medallions architecture and able to select an appropriate data modelling pattern.
+- Experience of creating data flow diagrams using Gane or Yourdon notation.
+- Knowledge of a wide variety of database technologies, including SQL and NO-SQL platforms.
 
 In addition, the following essential criteria will also need to be demonstrated at the second interview stage:
 
-- The ability to work with technical and non-technical stakeholders to achieve agreement on technical plans.
-- The ability to look beyond immediate technical problems and identify the wider implications.
-- Practical knowledge at many levels of the web stack, from front-end code, down to infrastructure and networking.
+- The ability to work with technical and non-technical stakeholders to achieve agreement on delivery plans.
+- The ability to look beyond immediate problems and identify the wider implications.
+- Practical knowledge at many levels of the data stack, from querying, down to infrastructure and networking.
 
 It is desirable if you can demonstrate the following:
 
-- Experience using automated tests to continuously validate your work.
-- Experience of applying the UK Government Service Standard and service assessment.
+- Experience using Erwin data modeller or equivalent data modelling software.
 - Experience of mentoring and supporting colleagues in multi-disciplinary teams, one-to-one or in groups.
-- Ability to work with stakeholders to produce effective strategies for technology choices, using the most appropriate languages, frameworks and tools to meet user and business needs.
+- Ability to work with stakeholders to produce effective platform and workload selection to meet business needs.
 
 Please note that desirable criteria will only be considered to make an informed decision in the event of a tie.
 
