@@ -3,8 +3,26 @@
         "name": "Architects",
         "slug": "architects",
         "family": "Architecture",
-        "description": "Technical, solution, business, enterprise architects design and oversee the implementation of technology, solutions and services.",
+        "description": "Data, technical, solution, business, enterprise architects design and oversee the implementation of technology, solutions and services.",
         "roles": [
+            {
+                "role": "Data architect",
+                "slug": "data-architect",
+                "group": "Data Architect",
+                "grade": "SEO"
+            },
+            {
+                "role": "Senior data architect",
+                "slug": "senior-data-architect",
+                "group": "Data Architect",
+                "grade": "G7"
+            },
+            {
+                "role": "Lead data architect",
+                "slug": "lead-data-architect",
+                "group": "Data Architect",
+                "grade": "G6"
+            },
             {
                 "role": "Technical architect",
                 "slug": "technical-architect",
