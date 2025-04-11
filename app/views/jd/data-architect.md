@@ -1,5 +1,5 @@
 
-# Technical architect
+# Data architect
 
 <dl class="govuk-summary-list">
   <div class="govuk-summary-list__row">
@@ -19,7 +19,7 @@
     </dd>
   </div></dl>
 
-As a technical architect, you will be designing and building services for a diverse set of users, including citizens, teachers, social workers, and school professionals.
+As a data architect, you will be creating data flows and data models that describe both the current state of a service, and also set a target that better fulfils the strategic data needs of the service and the DfE as a whole.
 
 You will be working in [for example] the Schools and Curriculum digital delivery portfolio, which includes services like Get help buying for your school, Start and manage an academy and Build or repair a school.
 
@@ -27,15 +27,19 @@ You will be working in [for example] the Schools and Curriculum digital delivery
 
 Your main responsibilities will include:
 
-- Defining, maintaining, and championing the technical strategy for a service or group of services - keeping up to date with the latest technologies and trends, whilst delivering working software early and often.
-- Working with technical specialists in your service(s), on problems that require broad architectural thinking.
-- Defining how to build and operate user-centred, open source web systems in an agile environment, to serve a variety of citizen and government needs.
-- Being responsible for the technical design and development of your service(s), including how they interact with their surroundings, and how they evolve over time.
-- Challenging entrenched practices and influencing decision-makers, looking for deeper underlying problems to solve, and larger opportunities for digital transformation.
-- Communicating the vision for government services to developers and non-developers alike, working in multi-disciplinary teams that bring policy and delivery together.
-- Playing an active role in the DfE Technical Architecture community, where you will share knowledge of tools and techniques, as well as joining related communities of practice and events where appropriate, such as product, user research, design, platforms, security, etc.
-- Helping to build a diverse, inclusive culture across the technical architecture community.
-- Working with your Lead Technical Architect, colleagues and peers on profession-based activities (and cross-profession), such as defining standards and guidance around best practice.
+- Maintaining an excellent relationship with service owners, looking for deeper underlying problems to solve, articulating the wider opportunities for transformation.
+- Create comprehensive data models (entity relationship) diagrams for each relational schema forming a part of the Service. This needs to cover each level of data modelling of Conceptual, Logical and Physical.
+- Reuse, or creating, common entities and attributes wherever there is a direct conceptual correspondence
+- Taking responsibility for the data architecture of your service(s), including how they interact with up- and downstream data systems, even as these evolve over time.
+- Working with data specialists in your service(s), on problems that require broad architectural thinking
+- Define and maintain the data architecture, including metadata, orchestration for analytical use
+- Work with Data and Service Owners to capture decisions on Data Classification at attribute level
+- Provide input into data dictionaries
+- Design, support and provide guidance for the upgrade, management, decommission and archive of data in compliance with data policy
+- Consider Data Access Control processes and document decisions
+- Playing an active role in the DfE Architecture community, where you will share knowledge of tools and techniques, as well as joining related communities of practice
+- Helping to build a diverse, inclusive culture across the architecture community.
+- Working with your Lead Data Architect, colleagues and peers on profession-based activities (and cross-profession), such as defining standards and guidance around best practice.
 
 ## Skills you need
 
