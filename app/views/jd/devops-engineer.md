@@ -40,7 +40,7 @@ Prometheus, Grafana
 * Work with our development community to ensure we build sustainable digital products
 * Help the team create and sustain modern deployment standards, practices and techniques for our development and DevOps community
 * Advocate user-centric, agile approaches which focus on rapid, effective delivery of high quality digital services
-* Help build and maintain a diverse, inclusive culture across the DevOps community, growing awareness,inclusivity, and balance
+* Help build and maintain a diverse, inclusive culture across the DevOps community, growing awareness, inclusivity, and balance
 
 ## You'll have:
 

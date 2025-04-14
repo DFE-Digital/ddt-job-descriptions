@@ -5,6 +5,6 @@
 They are responsible for good, underpinning development processes, including:
 
 - managing tools and testing environments 
-- managing source control and resposities
+- managing source control and repositories
 - maintaining development standards
 - writing software that automates systems
