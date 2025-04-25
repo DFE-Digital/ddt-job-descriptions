@@ -22,7 +22,7 @@
 
 As a senior data architect, you will be creating data flows and data models that describe both the current state of a service, and also set a target that better fulfils the strategic data needs of the service and the DfE as a whole.
 
-You will be working with a portfolio of teams aiming to deliver changes to Services that are critical to delivering education and children social care to the citizens of England.
+You will be working with a portfolio of teams aiming to deliver changes to Services that are critical to delivering education and children social care to the citizens of England. 
 
 ## The role
 
@@ -32,14 +32,14 @@ Your main responsibilities will include:
 - Create comprehensive data models (entity relationship) diagrams for each relational schema forming a part of the Service. This needs to cover each level of data modelling of Conceptual, Logical and Physical
 - Reuse, or creating, common entities and attributes wherever there is a direct conceptual correspondence
 - Taking responsibility for the data architecture of you portfolio of services, including how they interact with up- and downstream data systems, even as these evolve over time.
-- Leading data specialists in your service(s), on problems that require broad architectural thinking
+- Leading on problems that require broad architectural thinking in your service(s), while creating space for data specialists to take the initiative on the detail
 - Define and maintain the data architecture, including metadata, orchestration for analytical use
 - Work with Data and Service Owners to capture decisions on Data Classification at attribute level
 - Provide input into data dictionaries
 - Design, support and provide guidance for the upgrade, management, decommission and archive of data in compliance with data policy
 - Consider Data Access Control processes and document decisions
-- Playing an active role in the DfE Architecture community, where you will share knowledge of tools and techniques, as well as joining related communities of practice
-- Helping to build a diverse, inclusive culture across the architecture community.
+- Playing an active role in the DfE Architecture community, where you will recognise and share successesful implementations of tools and techniques, as well as create a sense of unified purpose
+- Helping to build a diverse, inclusive culture across the architecture community with a positive attitude towards feedback
 - Working with your Lead Data Architect, colleagues and peers on profession-based activities (and cross-profession), such as defining standards and guidance around best practice.
 
 ## Skills you need
@@ -57,6 +57,7 @@ In addition, the following essential criteria will also need to be demonstrated 
 - The ability to work with technical and non-technical stakeholders to achieve agreement on delivery plans.
 - The ability to look beyond immediate problems and identify the wider implications.
 - Practical knowledge at many levels of the data stack, from querying, down to infrastructure and networking.
+- The abilty to manage challenging and sensitive communications and take difficult decisions
 
 It is desirable if you can demonstrate the following:
 
