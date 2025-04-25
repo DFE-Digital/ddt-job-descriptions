@@ -20,27 +20,23 @@
     </dd>
   </div></dl>
 
-As a lead data architect, you will be creating data flows and data models that describe both the current state of a service, and also set a target that better fulfils the strategic data needs of the service and the DfE as a whole.
+As a lead data architect, you will be delivering data flows and data models for a wide range of service portfolios, mostly by leading others. You will also drive forward multiple technical standards that set the strategic direction of data strategy of the DfE as a whole, linking across government wherever this is beneficial.
 
-You will be working with a portfolio of teams aiming to deliver changes to Services that are critical to delivering education and children social care to the citizens of England.
+You will be use leadership, management, representational and influencing skills to deliver changes to the data architecture of Services that are critical to delivering education and children social care to the citizens of England.
 
 ## The role
 
 Your main responsibilities will include:
 
-- Maintaining an excellent relationship with your Service Owner(s) to understand their needs, looking for deeper underlying problems to solve and taking advantage of wider opportunities for transformation
-- Create comprehensive data models (entity relationship) diagrams for each relational schema forming a part of the Service. This needs to cover each level of data modelling of Conceptual, Logical and Physical
-- Reuse, or creating, common entities and attributes wherever there is a direct conceptual correspondence
-- Taking responsibility for the data architecture of you portfolio of services, including how they interact with up- and downstream data systems, even as these evolve over time.
-- Leading data specialists in your service(s), on problems that require broad architectural thinking
-- Define and maintain the data architecture, including metadata, orchestration for analytical use
-- Work with Data and Service Owners to capture decisions on Data Classification at attribute level
-- Provide input into data dictionaries
-- Design, support and provide guidance for the upgrade, management, decommission and archive of data in compliance with data policy
-- Consider Data Access Control processes and document decisions
-- Playing an active role in the DfE Architecture community, where you will share knowledge of tools and techniques, as well as joining related communities of practice
-- Helping to build a diverse, inclusive culture across the architecture community.
-- Working with your Lead Data Architect, colleagues and peers on profession-based activities (and cross-profession), such as defining standards and guidance around best practice.
+- Maintaining an excellent relationship with Service Owners and Senior Responsible Offciers to understand their needs, looking for strategic issues and taking advantage of opportunities for enterprise-wide transformation
+- Set and maintain a robust framework for assuring data modelling delivery against patterns for relational schemas within Services
+- Ensuring that common entities and attributes are reused wherever there is a direct conceptual correspondence
+- Taking responsibility for the data architecture in a wide range of portfolio of services, including how they interact with up- and downstream data systems, even as these evolve over time
+- Support the whole data architecture professional group, respresenting the profession on design forums and other senior management boards
+- Hold data architecture professionals to account for delivering work that meets the technical standards
+- Design, support and provide guidance for the development of data policies and standards
+- Playing a leading role in the DfE Architecture community, ensuring that knowledge of successful tools and techniques is shared and celebrated
+- Build a diverse, inclusive culture across the architecture community.
 
 ## Skills you need
 
@@ -63,6 +59,7 @@ It is desirable if you can demonstrate the following:
 - Experience using Erwin data modeller or equivalent data modelling software.
 - Experience of mentoring and supporting colleagues in multi-disciplinary teams, one-to-one or in groups.
 - Ability to work with stakeholders to produce effective platform and workload selection to meet business needs.
+- Experience making decisions with a critical impact on organisational effectiveness or the external reputation of the organisation
 
 Please note that desirable criteria will only be considered to make an informed decision in the event of a tie.
 
