@@ -4,7 +4,7 @@ All architects in government design and deliver services that provide outcomes f
 
 In DfE, we have a broad mix of enterprise, business, solution, technical, data and specialist architects. We sometimes have 'tech leads' that have architecture responsibilities, but they would typically align with the closest matching role. There are lots of different roles and teams that ‘do’ architecture in one way or another, across a number of business areas.
 
-All roles aligned with the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk).
+All roles align with the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk).
 
 ### Enterprise architects
 
@@ -37,4 +37,7 @@ Technical architects currently work in portfolios and service lines within DfE, 
 
 ### Data architects
 
-Data architects set the vision for DfE’s use of data, through data design, to meet business needs. They design and build data models to fulfil the strategic data needs of the business.
+Data architects own and deliver the vision for DfE’s use of data, and enable Service Owners to make better decisions about their data system, balancing local needs with organisational data strategy.
+
+Data architects help solve business problems, by developing the needs of services into data design and optimising management of data.  They deliver target data flow diagrams and data models (entity relationship diagrams) that promote interoperability between services, reuse of appropriate existing patterns and facilitate the successful implementation of data governance.
+

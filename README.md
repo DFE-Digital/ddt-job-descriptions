@@ -78,7 +78,7 @@ Within the `app/data` directory, open the `nav.json` file and add a structure fo
 
 ### Profession overview
 
-This is displated on the overview page for each profession group (the group is the parent of the roles)
+This is displayed on the overview page for each profession group (the group is the parent of the roles)
 
 When creating markdown files, you'll use the slugs to name files.
 
