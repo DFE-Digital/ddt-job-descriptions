@@ -3,8 +3,14 @@
         "name": "Architects",
         "slug": "architects",
         "family": "Architecture",
-        "description": "Data, technical, solution, business, enterprise architects design and oversee the implementation of technology, solutions and services.",
+        "description": "Business, data, enterprise, solution and technical architects design and oversee the implementation of technology, solutions and services.",
         "roles": [
+            {
+                "role": "Business Architect",
+                "slug": "business-architect",
+                "group": "Business Architect",
+                "grade": "G7"
+            },
             {
                 "role": "Data architect",
                 "slug": "data-architect",
@@ -21,6 +27,42 @@
                 "role": "Lead data architect",
                 "slug": "lead-data-architect",
                 "group": "Data Architect",
+                "grade": "G6"
+            },
+            {
+                "role": "Enterprise architect",
+                "slug": "enterprise-architect",
+                "group": "Enterprise Architect",
+                "grade": "G7"
+            },
+            {
+                "role": "Lead enterprise architect",
+                "slug": "lead-enterprise-architect",
+                "group": "Enterprise Architect",
+                "grade": "G6"
+            },
+            {
+                "role": "Head of profession",
+                "slug": "head-of-profession",
+                "group": "Enterprise Architect",
+                "grade": "G6"
+            },
+            {
+                "role": "Solution architect",
+                "slug": "solution-architect",
+                "group": "Solution Architect",
+                "grade": "SEO"
+            },
+            {
+                "role": "Senior solution architect",
+                "slug": "senior-solution-architect",
+                "group": "Solution Architect",
+                "grade": "G7"
+            },
+            {
+                "role": "Lead solution architect",
+                "slug": "lead-solution-architect",
+                "group": "Solution Architect",
                 "grade": "G6"
             },
             {
@@ -46,48 +88,6 @@
                 "slug": "principal-technical-architect",
                 "group": "Technical Architect",
                 "grade": "G6"
-            },
-            {
-                "role": "Solution architect",
-                "slug": "solution-architect",
-                "group": "Solution Architect",
-                "grade": "SEO"
-            },
-            {
-                "role": "Senior solution architect",
-                "slug": "senior-solution-architect",
-                "group": "Solution Architect",
-                "grade": "G7"
-            },
-            {
-                "role": "Lead solution architect",
-                "slug": "lead-solution-architect",
-                "group": "Solution Architect",
-                "grade": "G6"
-            },
-            {
-                "role": "Enterprise architect",
-                "slug": "enterprise-architect",
-                "group": "Enterprise Architect",
-                "grade": "G7"
-            },
-            {
-                "role": "Lead enterprise architect",
-                "slug": "lead-enterprise-architect",
-                "group": "Enterprise Architect",
-                "grade": "G6"
-            },
-            {
-                "role": "Head of profession",
-                "slug": "head-of-profession",
-                "group": "Enterprise Architect",
-                "grade": "G6"
-            },
-            {
-                "role": "Business Architect",
-                "slug": "business-architect",
-                "group": "Business Architect",
-                "grade": "G7"
             }
         ]
     },
