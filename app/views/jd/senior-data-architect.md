@@ -48,7 +48,7 @@ It is essential that you can demonstrate the following experience in your applic
 
 - Experience working and coaching in technical teams and delivering user-centred services in an agile environment.
 - Experience of practices such as data model design.
-- Experience working on data orchestation and able to select an appropriate data modelling patterns.Add commentMore actions
+- Experience working on data orchestation and able to select an appropriate data modelling patterns.
 - Experience of creating data flow diagrams using clear notation.
 - Knowledge of a wide variety of database technologies, including SQL and NO-SQL platforms.
 
