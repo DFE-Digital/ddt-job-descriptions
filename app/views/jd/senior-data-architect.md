@@ -48,8 +48,8 @@ It is essential that you can demonstrate the following experience in your applic
 
 - Experience working and coaching in technical teams and delivering user-centred services in an agile environment.
 - Experience of practices such as data model design.
-- Experience working with medallions architecture and able to select an appropriate data modelling pattern.
-- Experience of creating data flow diagrams using Gane or Yourdon notation.
+- Experience working on data orchestation and able to select an appropriate data modelling patterns.Add commentMore actions
+- Experience of creating data flow diagrams using clear notation.
 - Knowledge of a wide variety of database technologies, including SQL and NO-SQL platforms.
 
 In addition, the following essential criteria will also need to be demonstrated at the second interview stage:
@@ -61,7 +61,7 @@ In addition, the following essential criteria will also need to be demonstrated 
 
 It is desirable if you can demonstrate the following:
 
-- Experience using Erwin data modeller or equivalent data modelling software.
+- Experience using data modelling tools such as Erwin data modeller or equivalent.
 - Experience of mentoring and supporting colleagues in multi-disciplinary teams, one-to-one or in groups.
 - Ability to work with stakeholders to produce effective platform and workload selection to meet business needs.
 
