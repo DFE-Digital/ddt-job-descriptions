@@ -7,8 +7,8 @@
 }
 
 /* GOV.UK width container */
-.govuk-width-container {
-    max-width: 1200px;
+.govuk-width-container, .dfe-width-container {
+    max-width: 960px;
 }
 
 /* Vertical Navigation */
