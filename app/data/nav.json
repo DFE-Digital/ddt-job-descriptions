@@ -240,38 +240,5 @@
                 "grade": "G6"
             }
         ]
-    },
-    {
-        "name": "User research",
-        "slug": "user-research",
-        "family": "User-centered design",
-        "description": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use our services, across education and social care.",
-        "roles": [
-            {
-                "role": "Junior user researcher",
-                "slug": "junior-user-researcher",
-                "grade": "HEO"
-            },
-            {
-                "role": "User researcher",
-                "slug": "user-researcher",
-                "grade": "HEO"
-            },
-            {
-                "role": "Senior user researcher",
-                "slug": "senior-user-researcher",
-                "grade": "SEO"
-            },
-            {
-                "role": "Lead user researcher",
-                "slug": "lead-user-researcher",
-                "grade": "G6"
-            },
-            {
-                "role": "Head of profession",
-                "slug": "head-of-profession",
-                "grade": "G6"
-            }
-        ]
     }
 ]
