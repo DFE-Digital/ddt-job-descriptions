@@ -44,20 +44,14 @@ Your main responsibilities will include:
 
 ## Skills you need
 
-It is essential that you can demonstrate the following experience in your application and at the first stage interview:
+It is essential that you can demonstrate the following experience and skills:
 
-- Experience working and coaching in technical teams and delivering user-centred services in an agile environment.
-- Experience of practices such as data model design.
-- Experience working on data orchestation and able to select an appropriate data modelling patterns.
-- Experience of creating data flow diagrams using clear notation.
-- Knowledge of a wide variety of database technologies, including SQL and NO-SQL platforms.
-
-In addition, the following essential criteria will also need to be demonstrated at the second interview stage:
-
+- Experience of the practice of data model design selecting appropriate data modelling patterns.
+- Experience of creating data flow diagrams using clear notation and leading the development of data orchestration.
+- Experience of delivering user-centred services through a wide variety of database technologies, including SQL and NO-SQL platforms.
 - The ability to work with technical and non-technical stakeholders to achieve agreement on delivery plans.
-- The ability to look beyond immediate problems and identify the wider implications.
-- Practical knowledge at many levels of the data stack, from querying, down to infrastructure and networking.
-- The abilty to manage challenging and sensitive communications and take difficult decisions
+- The ability to look beyond immediate technical problems and identify the wider implications.
+- The ability to manage challenging and sensitive communications and take difficult decisions.
 
 It is desirable if you can demonstrate the following:
 
