@@ -42,20 +42,20 @@ Your main responsibilities will include:
 
 It is essential that you can demonstrate the following experience:
 
-- Experience leading technical teams and delivering user-centred services in an agile environment.
-- Experience of introducing practices such as data model design.
-- Experience working on data orchestation and able to select an appropriate data modelling patterns.
-- Experience of creating data flow diagrams using clear notation.
-- Knowledge of a wide variety of database technologies, including SQL and NO-SQL platforms.
-- The ability to build consensus between diverse and often conflicting interests, working with technical and non-technical stakeholders to achieve agreement on delivery plans.
-- The ability to look beyond immediate problems and identify the wider implications.
-- Practical knowledge at many levels of the data stack, from querying, down to infrastructure and networking.
+- Experience leading technical teams and delivering user-centred services in an agile environment. 
+- Experience of introducing data best practice, such as data model design. 
+- Experience of data orchestration and the ability to select an appropriate data modelling patterns. 
+- Experience of creating data flow diagrams, using clear notation. 
+- Knowledge of a wide variety of database technologies, including SQL and NoSQL platforms. 
+- The ability to build consensus between diverse and often conflicting interests, working with technical and non-technical stakeholders to achieve agreement on delivery plans. 
+- The ability to look beyond immediate data problems and identify the wider implications. 
+- Practical knowledge at many levels of the data stack, from querying, down to infrastructure and networking. 
 
 It is desirable if you can demonstrate the following:
 
-- Experience using data modelling tools such as Erwin data modeller or equivalent.
-- Experience of mentoring and supporting colleagues in multi-disciplinary teams, one-to-one or in groups.
-- Ability to work with stakeholders to produce effective platform and workload selection to meet business needs.
-- Experience making decisions with a critical impact on organisational effectiveness or the external reputation of the organisation
+- Experience using data modelling tools such as Erwin data modeller or equivalent. 
+- Experience of mentoring and supporting colleagues in multi-disciplinary teams, one-to-one or in groups. 
+- Ability to work with stakeholders to produce effective platform and workload selection to meet business needs. 
+- Experience making decisions with a critical impact on organisational effectiveness or the external reputation of the organisation 
 
 Please note that desirable criteria will only be considered to make an informed decision in the event of a tie.
