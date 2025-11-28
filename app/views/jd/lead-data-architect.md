@@ -28,15 +28,15 @@ You will be use leadership, management, representational and influencing skills 
 
 Your main responsibilities will include:
 
-- Maintaining an excellent relationship with Service Owners and Senior Responsible Offciers to understand their needs, looking for strategic issues and taking advantage of opportunities for enterprise-wide transformation
-- Set and maintain a robust framework for assuring data modelling delivery against patterns for relational schemas within Services
-- Ensuring that common entities and attributes are reused wherever there is a direct conceptual correspondence
-- Taking responsibility for the data architecture in a wide range of portfolio of services, including how they interact with up- and downstream data systems, even as these evolve over time
-- Support the whole data architecture professional group, respresenting the profession on design forums and other senior management boards
-- Hold data architecture professionals to account for delivering work that meets the technical standards
-- Design, support and provide guidance for the development of data policies and standards
-- Playing a leading role in the DfE Architecture community, ensuring that knowledge of successful tools and techniques is shared and celebrated
-- Build a diverse, inclusive culture across the architecture community.
+- Maintaining excellent relationships with Service Owners and Senior Responsible Officers, to understand their needs, helping solve strategic issues and seeking opportunities for enterprise-wide data transformation 
+- Setting and maintaining a robust framework for assuring data modelling within services, against patterns for relational schemas 
+- Ensuring that common entities and attributes are re-used wherever there is a direct conceptual correspondence 
+- Taking responsibility for the data architecture across a wide range of services, programmes and portfolios, including how they interact with up- and downstream data systems, as these evolve over time 
+- Providing leadership within the data architecture professional community, representing the profession on design forums and other senior management boards 
+- Hold data architecture professionals to account for delivering work that meets Government and DfE standards 
+- Designing, supporting and providing guidance for the development of data policies and standards 
+- Playing a leading role in the DfE architecture community, ensuring that knowledge of successful tools and techniques is shared and celebrated 
+- Helping to build a diverse, inclusive culture across the architecture community. 
 
 ## Skills you need
 
