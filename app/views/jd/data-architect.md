@@ -45,12 +45,11 @@ Your main responsibilities will include:
 
 It is essential that you can demonstrate the following experience:
 
-- Experience of the practice of data model design selecting appropriate data modelling patterns.
-- Experience of creating data flow diagrams using clear notation and leading the development of data orchestration.
+- Experience of the practice of data model design, following data modelling patterns.
+- Experience of creating data flow diagrams using clear notation and capturing the requirements of data orchestration.
 - Experience of delivering user-centred services through a wide variety of database technologies, including SQL and NO-SQL platforms.
-- The ability to work with technical and non-technical stakeholders to achieve agreement on delivery plans.
+- The ability to work with technical and non-technical stakeholders to deliver on agreed plans.
 - The ability to look beyond immediate technical problems and identify the wider implications.
-- The ability to manage challenging and sensitive communications and take difficult decisions.
 
 It is desirable if you can demonstrate the following:
 
