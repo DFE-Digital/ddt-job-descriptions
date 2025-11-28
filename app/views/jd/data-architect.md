@@ -50,6 +50,8 @@ It is essential that you can demonstrate the following experience:
 - Experience of delivering user-centred services through a wide variety of database technologies, including SQL and NO-SQL platforms.
 - The ability to work with technical and non-technical stakeholders to deliver on agreed plans.
 - The ability to look beyond immediate technical problems and identify the wider implications.
+- The ability to undertake data profiling and source system analysis and present clear insights to colleagues to support the end use of the data
+
 
 It is desirable if you can demonstrate the following:
 
