@@ -12,24 +12,6 @@
                 "grade": "G7"
             },
             {
-                "role": "Data architect",
-                "slug": "data-architect",
-                "group": "Data Architect",
-                "grade": "SEO"
-            },
-            {
-                "role": "Senior data architect",
-                "slug": "senior-data-architect",
-                "group": "Data Architect",
-                "grade": "G7"
-            },
-            {
-                "role": "Lead data architect",
-                "slug": "lead-data-architect",
-                "group": "Data Architect",
-                "grade": "G6"
-            },
-            {
                 "role": "Enterprise architect",
                 "slug": "enterprise-architect",
                 "group": "Enterprise Architect",
