@@ -28,37 +28,34 @@ You will be use leadership, management, representational and influencing skills 
 
 Your main responsibilities will include:
 
-- Maintaining an excellent relationship with Service Owners and Senior Responsible Offciers to understand their needs, looking for strategic issues and taking advantage of opportunities for enterprise-wide transformation
-- Set and maintain a robust framework for assuring data modelling delivery against patterns for relational schemas within Services
-- Ensuring that common entities and attributes are reused wherever there is a direct conceptual correspondence
-- Taking responsibility for the data architecture in a wide range of portfolio of services, including how they interact with up- and downstream data systems, even as these evolve over time
-- Support the whole data architecture professional group, respresenting the profession on design forums and other senior management boards
-- Hold data architecture professionals to account for delivering work that meets the technical standards
-- Design, support and provide guidance for the development of data policies and standards
-- Playing a leading role in the DfE Architecture community, ensuring that knowledge of successful tools and techniques is shared and celebrated
-- Build a diverse, inclusive culture across the architecture community.
+- Maintaining excellent relationships with Service Owners and Senior Responsible Officers, to understand their needs, helping solve strategic issues and seeking opportunities for enterprise-wide data transformation 
+- Setting and maintaining a robust framework for assuring data modelling within services, against patterns for relational schemas 
+- Ensuring that common entities and attributes are re-used wherever there is a direct conceptual correspondence 
+- Taking responsibility for the data architecture across a wide range of services, programmes and portfolios, including how they interact with up- and downstream data systems, as these evolve over time 
+- Providing leadership within the data architecture professional community, representing the profession on design forums and other senior management boards 
+- Hold data architecture professionals to account for delivering work that meets Government and DfE standards 
+- Designing, supporting and providing guidance for the development of data policies and standards 
+- Playing a leading role in the DfE architecture community, ensuring that knowledge of successful tools and techniques is shared and celebrated 
+- Helping to build a diverse, inclusive culture across the architecture community. 
 
 ## Skills you need
 
-It is essential that you can demonstrate the following experience in your application and at the first stage interview:
+It is essential that you can demonstrate the following experience:
 
-- Experience leading technical teams and delivering user-centred services in an agile environment.
-- Experience of introducing practices such as data model design.
-- Experience working on data orchestation and able to select an appropriate data modelling patterns.
-- Experience of creating data flow diagrams using clear notation.
-- Knowledge of a wide variety of database technologies, including SQL and NO-SQL platforms.
-
-In addition, the following essential criteria will also need to be demonstrated at the second interview stage:
-
-- The ability to build consensus between diverse and often conflicting interests, working with technical and non-technical stakeholders to achieve agreement on delivery plans.
-- The ability to look beyond immediate problems and identify the wider implications.
-- Practical knowledge at many levels of the data stack, from querying, down to infrastructure and networking.
+- Experience leading technical teams and delivering user-centred services in an agile environment. 
+- Experience of introducing data best practice, such as data model design. 
+- Experience of data orchestration and the ability to select an appropriate data modelling patterns. 
+- Experience of creating data flow diagrams, using clear notation. 
+- Knowledge of a wide variety of database technologies, including SQL and NoSQL platforms. 
+- The ability to build consensus between diverse and often conflicting interests, working with technical and non-technical stakeholders to achieve agreement on delivery plans. 
+- The ability to look beyond immediate data problems and identify the wider implications. 
+- Practical knowledge at many levels of the data stack, from querying, down to infrastructure and networking. 
 
 It is desirable if you can demonstrate the following:
 
-- Experience using data modelling tools such as Erwin data modeller or equivalent.
-- Experience of mentoring and supporting colleagues in multi-disciplinary teams, one-to-one or in groups.
-- Ability to work with stakeholders to produce effective platform and workload selection to meet business needs.
-- Experience making decisions with a critical impact on organisational effectiveness or the external reputation of the organisation
+- Experience using data modelling tools such as Erwin data modeller or equivalent. 
+- Experience of mentoring and supporting colleagues in multi-disciplinary teams, one-to-one or in groups. 
+- Ability to work with stakeholders to produce effective platform and workload selection to meet business needs. 
+- Experience making decisions with a critical impact on organisational effectiveness or the external reputation of the organisation 
 
 Please note that desirable criteria will only be considered to make an informed decision in the event of a tie.
