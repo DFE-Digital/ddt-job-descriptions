@@ -48,7 +48,7 @@ It is essential that you can demonstrate the following experience and skills:
 
 - Experience of the practice of data model design selecting appropriate data modelling patterns.
 - Experience of creating data flow diagrams using clear notation and leading the development of data orchestration.
-- Experience of delivering user-centred services through a wide variety of database technologies, including SQL and NO-SQL platforms.
+- Experience of delivering against a wide variety of use cases, including both operational and analytical, through effective data platform technology decisions.
 - The ability to work with technical and non-technical stakeholders to achieve agreement on delivery plans.
 - The ability to look beyond immediate technical problems and identify the wider implications.
 - The ability to manage challenging and sensitive communications and take difficult decisions.
