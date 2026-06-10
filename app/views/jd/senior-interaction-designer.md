@@ -9,28 +9,6 @@
       G7
     </dd>
   </div>
-   <div class="govuk-summary-list__row" data-ignore="true">
-    <dt class="govuk-summary-list__key">
-      Download
-    </dt>
-    <dd class="govuk-summary-list__value">
-      <a href="word">Word document</a>
-    </dd>
-  </div></dl>
-
- 
-
-# Senior interaction designer
-
-<dl class="govuk-summary-list">
-  <div class="govuk-summary-list__row">
-    <dt class="govuk-summary-list__key">
-      Grade
-    </dt>
-    <dd class="govuk-summary-list__value">
-      G7
-    </dd>
-  </div>
   <div class="govuk-summary-list__row" data-ignore="true">
     <dt class="govuk-summary-list__key">
       Download
@@ -43,14 +21,14 @@
 
 ## Role responsibilities
 
-- lead the design and prototyping of complex services and interactions (Iterative Design)
-- set direction and standards for design fidelity and quality across teams and services (Design Strategically)
-- make strategic design decisions based on research, data and organisational goals (Data-driven Design)
-- collaborate across teams and disciplines to shape service direction (Designing Together)
-- ensure accessibility and inclusive design are embedded across services (Design for Everyone)
-- own and evolve design systems, patterns, and standards (Design Strategically)
-- influence senior stakeholders and drive alignment across teams (Design Communication)
-- mentor designers, lead critiques and embed good design practice (Designing Together)
+- lead the design and prototyping of complex services and interactions
+- set direction and standards for design fidelity and quality across teams and services
+- make strategic design decisions based on research, data and organisational goals
+- collaborate across teams and disciplines to shape service direction
+- ensure accessibility and inclusive design are embedded across services
+- own and evolve design systems, patterns, and standards
+- influence senior stakeholders and drive alignment across teams
+- mentor designers, lead critiques and embed good design practice
 
 ## Skills you need
 
