@@ -18,27 +18,63 @@
     </dd>
   </div></dl>
 
-## You will
+## Role responsibilities
 
--	design and prototype user interfaces that align with user needs and business requirements
--	collaborate with UCD professionals, including researchers, service designers, and content designers, to turn insights into functional and engaging designs
--	use data and evidence to refine and improve designs, making informed decisions based on testing and user feedback
--	advocate for user needs throughout the design process, ensuring solutions are accessible, inclusive, and solve complete user problems
--	communicate design solutions effectively to stakeholders, contributing to the overall vision for the service
-
+- design and prototype high quality user interfaces aligned to user needs and business goals
+- interpret research and data to make informed design decisions
+- collaborate across disciplines to shape end-to-end service experiences
+- ensure designs meet strict accessibility standards and inclusive design principles
+- contribute to and help maintain design systems, patterns and components
+- communicate design decisions clearly and influence stakeholders
+- manage and iterate designs independently within agile teams
 
 ## Skills you need
 
-It is essential that you can demonstrate the following experience in your application and at the interview:
+It is essential that you can demonstrate the following:
 
--	strong skills in prototyping interactive user interfaces, choosing appropriate methods to test and validate ideas
--	proficient in using data and testing results to inform design decisions, creating interfaces that are evidence-based and user-centred
--	skilled at presenting design concepts and rationale to stakeholders in a clear, engaging way.
--	able to manage expectations, facilitate discussions, and encourage collaboration among diverse stakeholders
--	experience designing products that cater to a wide range of users, ensuring all designs are accessible and usable by all
--	experienced in agile working practices, adapting to iterative feedback and prioritising tasks based on user and business needs
+- strong prototyping skills across multiple fidelities including wireframes, Figma and code using HTML, CSS and JavaScript
+- working knowledge of GitHub or version control systems
+- ability to use research and data to drive design decisions
+- confident stakeholder communication and facilitation skills
+- experience designing accessible services (WCAG and inclusive design)
+- experience contributing to design systems, components and patterns
+- ability to work effectively in agile, multidisciplinary teams
+
+## Desirable
 
 It is desirable if you can demonstrate the following:
 
-- be able to prototype in code using HTML, CSS and JavaScript
--	strong analytical skills to identify and address issues within service designs, improving reliability and usability
+- strong analytical skills to identify and resolve service design issues
+- experience measuring design impact and outcomes
+
+
+## Selection process
+
+Applications will be sifted by a panel who will assess the evidence provided against the essential criteria listed in the advert.
+The CV and supporting evidence will be evaluated in line with the DfE Design Skills Framework, including:
+
+•	iterative design 
+•	evidence-based design 
+•	designing together 
+•	design communication 
+•	design for everyone 
+•	leading design
+
+Depending on the number of candidates who meet the minimum pass mark at sift, you will be invited to interview.
+
+### Interview Process
+
+Candidates who are successful at sift will be invited to a 2-stage interview process, typically held on the same day.
+
+Stage 1: Technical Assessment
+
+The first stage is a technical design assessment, led by a Senior Interaction Designer or the Head of Profession if this is for a G7 role.
+
+Format:
+
+•	40-minute practical task 
+•	followed by up to 10-minute discussion 
+•	followed by a 10-minute break before Stage 2 
+
+Stage 2: Questions based on essential criteria against success profiles.
+
